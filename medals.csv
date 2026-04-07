@@ -1,0 +1,1045 @@
+medal_type,medal_code,name,gender,discipline,event,code,country_code
+Gold Medal,1,Remco EVENEPOEL,M,Cycling Road,Men's Individual Time Trial,1903136,BEL
+Silver Medal,2,Filippo GANNA,M,Cycling Road,Men's Individual Time Trial,1923520,ITA
+Bronze Medal,3,Wout van AERT,M,Cycling Road,Men's Individual Time Trial,1903147,BEL
+Gold Medal,1,Grace BROWN,F,Cycling Road,Women's Individual Time Trial,1940173,AUS
+Silver Medal,2,Anna HENDERSON,F,Cycling Road,Women's Individual Time Trial,1912525,GBR
+Bronze Medal,3,Chloe DYGERT,F,Cycling Road,Women's Individual Time Trial,1955079,USA
+Gold Medal,1,China,F,Diving,Women's Synchronised 3m Springboard,DIVW3MTEAM2-CHN01,CHN
+Silver Medal,2,United States,F,Diving,Women's Synchronised 3m Springboard,DIVW3MTEAM2-USA01,USA
+Bronze Medal,3,Great Britain,F,Diving,Women's Synchronised 3m Springboard,DIVW3MTEAM2-GBR01,GBR
+Gold Medal,1,OH Sanguk,M,Fencing,Men's Sabre Individual,1927149,KOR
+Silver Medal,2,Fares FERJANI,M,Fencing,Men's Sabre Individual,1937783,TUN
+Bronze Medal,3,Luigi SAMELE,M,Fencing,Men's Sabre Individual,1924595,ITA
+Gold Medal,1,KONG Man Wai Vivian,F,Fencing,Women's ï¿½ï¿½ï¿½ï¿½ï¿½ï¿,1963262,HKG
+Silver Medal,2,Auriane MALLO-BRETON,F,Fencing,Women's ï¿½ï¿½ï¿½ï¿½ï¿½ï¿,1916183,FRA
+Bronze Medal,3,Eszter MUHARI,F,Fencing,Women's ï¿½ï¿½ï¿½ï¿½ï¿½ï¿,1946375,HUN
+Gold Medal,1,Yeldos SMETOV,M,Judo,Men -60 kg,1935408,KAZ
+Silver Medal,2,Luka MKHEIDZE,M,Judo,Men -60 kg,1891304,FRA
+Bronze Medal,3,NAGAYAMA Ryuju,M,Judo,Men -60 kg,1896752,JPN
+Bronze Medal,3,Francisco GARRIGOS,M,Judo,Men -60 kg,1563544,ESP
+Gold Medal,1,TSUNODA Natsumi,F,Judo,Women -48 kg,1896735,JPN
+Silver Medal,2,Baasankhuu BAVUUDORJ,F,Judo,Women -48 kg,1914467,MGL
+Bronze Medal,3,Shirine BOUKLI,F,Judo,Women -48 kg,1891280,FRA
+Bronze Medal,3,Tara BABULFATH,F,Judo,Women -48 kg,1571911,SWE
+Gold Medal,1,France,M,Rugby Sevens,Men,RU7MTEAM7---FRA01,FRA
+Silver Medal,2,Fiji,M,Rugby Sevens,Men,RU7MTEAM7---FIJ01,FIJ
+Bronze Medal,3,South Africa,M,Rugby Sevens,Men,RU7MTEAM7---RSA01,RSA
+Gold Medal,1,China 1,X,Shooting,10m Air Rifle Mixed Team,SHOXARMT----CHN01,CHN
+Silver Medal,2,Korea 1,X,Shooting,10m Air Rifle Mixed Team,SHOXARMT----KOR01,KOR
+Bronze Medal,3,Kazakhstan 1,X,Shooting,10m Air Rifle Mixed Team,SHOXARMT----KAZ01,KAZ
+Gold Medal,1,United States,M,Swimming,Men's 4 x 100m Freestyle Relay,SWMM4X100MFRUSA01,USA
+Silver Medal,2,Australia,M,Swimming,Men's 4 x 100m Freestyle Relay,SWMM4X100MFRAUS01,AUS
+Bronze Medal,3,Italy,M,Swimming,Men's 4 x 100m Freestyle Relay,SWMM4X100MFRITA01,ITA
+Gold Medal,1,Lukas MAERTENS,M,Swimming,Men's 400m Freestyle,1907192,GER
+Silver Medal,2,Elijah WINNINGTON,M,Swimming,Men's 400m Freestyle,1946172,AUS
+Bronze Medal,3,KIM Woomin,M,Swimming,Men's 400m Freestyle,4654306,KOR
+Gold Medal,1,Australia,F,Swimming,Women's 4 x 100m Freestyle Relay,SWMW4X100MFRAUS01,AUS
+Silver Medal,2,United States,F,Swimming,Women's 4 x 100m Freestyle Relay,SWMW4X100MFRUSA01,USA
+Bronze Medal,3,China,F,Swimming,Women's 4 x 100m Freestyle Relay,SWMW4X100MFRCHN01,CHN
+Gold Medal,1,Ariarne TITMUS,F,Swimming,Women's 400m Freestyle,1946150,AUS
+Silver Medal,2,Summer McINTOSH,F,Swimming,Women's 400m Freestyle,1967140,CAN
+Bronze Medal,3,Katie LEDECKY,F,Swimming,Women's 400m Freestyle,1935938,USA
+Gold Medal,1,Korea,F,Archery,Women's Team,ARCWTEAM3---KOR01,KOR
+Silver Medal,2,China,F,Archery,Women's Team,ARCWTEAM3---CHN01,CHN
+Bronze Medal,3,Mexico,F,Archery,Women's Team,ARCWTEAM3---MEX01,MEX
+Gold Medal,1,Jessica FOX,F,Canoe Slalom,Women's Kayak Single,1940205,AUS
+Silver Medal,2,Klaudia ZWOLINSKA,F,Canoe Slalom,Women's Kayak Single,1942126,POL
+Bronze Medal,3,Kimberley WOODS,F,Canoe Slalom,Women's Kayak Single,1896045,GBR
+Gold Medal,1,Pauline FERRAND PREVOT,F,Cycling Mountain Bike,Women's Cross-country,1895672,FRA
+Silver Medal,2,Haley BATTEN,F,Cycling Mountain Bike,Women's Cross-country,1955070,USA
+Bronze Medal,3,Jenny RISSVEDS,F,Cycling Mountain Bike,Women's Cross-country,1564023,SWE
+Gold Medal,1,KANO Koki,M,Fencing,Men's ï¿½ï¿½ï¿½ï¿½ï¿½ï¿,1896548,JPN
+Silver Medal,2,Yannick BOREL,M,Fencing,Men's ï¿½ï¿½ï¿½ï¿½ï¿½ï¿,1916194,FRA
+Bronze Medal,3,Mohamed ELSAYED,M,Fencing,Men's ï¿½ï¿½ï¿½ï¿½ï¿½ï¿,1936462,EGY
+Gold Medal,1,Lee KIEFER,F,Fencing,Women's Foil Individual,1950611,USA
+Silver Medal,2,Lauren SCRUGGS,F,Fencing,Women's Foil Individual,1950643,USA
+Bronze Medal,3,Eleanor HARVEY,F,Fencing,Women's Foil Individual,1973213,CAN
+Gold Medal,1,ABE Hifumi,M,Judo,Men -66 kg,1896763,JPN
+Silver Medal,2,Willian LIMA,M,Judo,Men -66 kg,1953840,BRA
+Bronze Medal,3,Gusman KYRGYZBAYEV,M,Judo,Men -66 kg,1935410,KAZ
+Bronze Medal,3,Denis VIERU,M,Judo,Men -66 kg,1561138,MDA
+Gold Medal,1,Diyora KELDIYOROVA,F,Judo,Women -52 kg,1566997,UZB
+Silver Medal,2,Distria KRASNIQI,F,Judo,Women -52 kg,1550162,KOS
+Bronze Medal,3,Larissa PIMENTA,F,Judo,Women -52 kg,1953817,BRA
+Bronze Medal,3,Amandine BUCHARD,F,Judo,Women -52 kg,1891283,FRA
+Gold Medal,1,XIE Yu,M,Shooting,10m Air Pistol Men,1913907,CHN
+Silver Medal,2,Federico Nilo MALDINI,M,Shooting,10m Air Pistol Men,1551388,ITA
+Bronze Medal,3,Paolo MONNA,M,Shooting,10m Air Pistol Men,1551387,ITA
+Gold Medal,1,OH Ye Jin,F,Shooting,10m Air Pistol Women,1893972,KOR
+Silver Medal,2,KIM Yeji,F,Shooting,10m Air Pistol Women,1893930,KOR
+Bronze Medal,3,Manu BHAKER,F,Shooting,10m Air Pistol Women,1538159,IND
+Gold Medal,1,YOSHIZAWA Coco,F,Skateboarding,Women's Street,1902055,JPN
+Silver Medal,2,AKAMA Liz,F,Skateboarding,Women's Street,1902069,JPN
+Bronze Medal,3,Rayssa LEAL,F,Skateboarding,Women's Street,1955689,BRA
+Gold Medal,1,Nicolo MARTINENGHI,M,Swimming,Men's 100m Breaststroke,1925633,ITA
+Silver Medal,2,Adam PEATY,M,Swimming,Men's 100m Breaststroke,1956469,GBR
+Silver Medal,2,Nic FINK,M,Swimming,Men's 100m Breaststroke,1935901,USA
+Gold Medal,1,Leon MARCHAND,M,Swimming,Men's 400m Individual Medley,1909294,FRA
+Silver Medal,2,MATSUSHITA Tomoyuki,M,Swimming,Men's 400m Individual Medley,1963635,JPN
+Bronze Medal,3,Carson FOSTER,M,Swimming,Men's 400m Individual Medley,1935903,USA
+Gold Medal,1,Torri HUSKE,F,Swimming,Women's 100m Butterfly,1935923,USA
+Silver Medal,2,Gretchen WALSH,F,Swimming,Women's 100m Butterfly,1935998,USA
+Bronze Medal,3,ZHANG Yufei,F,Swimming,Women's 100m Butterfly,1945125,CHN
+Gold Medal,1,Korea,M,Archery,Men's Team,ARCMTEAM3---KOR01,KOR
+Silver Medal,2,France,M,Archery,Men's Team,ARCMTEAM3---FRA01,FRA
+Bronze Medal,3,Tï¿½ï¿½ï,M,Archery,Men's Team,ARCMTEAM3---TUR01,TUR
+Gold Medal,1,Japan,M,Artistic Gymnastics,Men's Team,GARMTEAM----JPN01,JPN
+Silver Medal,2,China,M,Artistic Gymnastics,Men's Team,GARMTEAM----CHN01,CHN
+Bronze Medal,3,United States,M,Artistic Gymnastics,Men's Team,GARMTEAM----USA01,USA
+Gold Medal,1,Nicolas GESTIN,M,Canoe Slalom,Men's Canoe Single,1880479,FRA
+Silver Medal,2,Adam BURGESS,M,Canoe Slalom,Men's Canoe Single,1896030,GBR
+Bronze Medal,3,Matej BENUS,M,Canoe Slalom,Men's Canoe Single,1961080,SVK
+Gold Medal,1,Thomas PIDCOCK,M,Cycling Mountain Bike,Men's Cross-country,1912546,GBR
+Silver Medal,2,Victor KORETZKY,M,Cycling Mountain Bike,Men's Cross-country,1895687,FRA
+Bronze Medal,3,Alan HATHERLY,M,Cycling Mountain Bike,Men's Cross-country,1943604,RSA
+Gold Medal,1,China,M,Diving,Men's Synchronised 10m Platform,DIVM10MTEAM2CHN01,CHN
+Silver Medal,2,Great Britain,M,Diving,Men's Synchronised 10m Platform,DIVM10MTEAM2GBR01,GBR
+Bronze Medal,3,Canada,M,Diving,Men's Synchronised 10m Platform,DIVM10MTEAM2CAN01,CAN
+Gold Medal,1,Michael JUNG,O,Equestrian,Eventing Individual,1914921,GER
+Silver Medal,2,Christopher BURTON,O,Equestrian,Eventing Individual,1940438,AUS
+Bronze Medal,3,Laura COLLETT,O,Equestrian,Eventing Individual,1970898,GBR
+Gold Medal,1,Great Britain,O,Equestrian,Eventing Team,EQUOEVENTEAMGBR01,GBR
+Silver Medal,2,France,O,Equestrian,Eventing Team,EQUOEVENTEAMFRA01,FRA
+Bronze Medal,3,Japan,O,Equestrian,Eventing Team,EQUOEVENTEAMJPN01,JPN
+Gold Medal,1,CHEUNG Ka Long,M,Fencing,Men's Foil Individual,1963245,HKG
+Silver Medal,2,Filippo MACCHI,M,Fencing,Men's Foil Individual,1924289,ITA
+Bronze Medal,3,Nick ITKIN,M,Fencing,Men's Foil Individual,1950602,USA
+Gold Medal,1,Manon APITHY-BRUNET,F,Fencing,Women's Sabre Individual,1916223,FRA
+Silver Medal,2,Sara BALZER,F,Fencing,Women's Sabre Individual,1916222,FRA
+Bronze Medal,3,Olga KHARLAN,F,Fencing,Women's Sabre Individual,1897644,UKR
+Gold Medal,1,Hidayat HEYDAROV,M,Judo,Men -73 kg,1972337,AZE
+Silver Medal,2,Joan-Benjamin GABA,M,Judo,Men -73 kg,1891311,FRA
+Bronze Medal,3,Adil OSMANOV,M,Judo,Men -73 kg,1563437,MDA
+Bronze Medal,3,HASHIMOTO Soichi,M,Judo,Men -73 kg,1896740,JPN
+Gold Medal,1,Christa DEGUCHI,F,Judo,Women -57 kg,1955526,CAN
+Silver Medal,2,HUH Mimi,F,Judo,Women -57 kg,1928067,KOR
+Bronze Medal,3,FUNAKUBO Haruka,F,Judo,Women -57 kg,1896733,JPN
+Bronze Medal,3,Sarah Leonie CYSIQUE,F,Judo,Women -57 kg,1891286,FRA
+Gold Medal,1,SHENG Lihao,M,Shooting,10m Air Rifle Men,1913899,CHN
+Silver Medal,2,Victor LINDGREN,M,Shooting,10m Air Rifle Men,1572919,SWE
+Bronze Medal,3,Miran MARICIC,M,Shooting,10m Air Rifle Men,1888047,CRO
+Gold Medal,1,BAN Hyojin,F,Shooting,10m Air Rifle Women,1893845,KOR
+Silver Medal,2,HUANG Yuting,F,Shooting,10m Air Rifle Women,1913945,CHN
+Bronze Medal,3,Audrey GOGNIAT,F,Shooting,10m Air Rifle Women,1976545,SUI
+Gold Medal,1,HORIGOME Yuto,M,Skateboarding,Men's Street,1902081,JPN
+Silver Medal,2,Jagger EATON,M,Skateboarding,Men's Street,1944226,USA
+Bronze Medal,3,Nyjah HUSTON,M,Skateboarding,Men's Street,1944232,USA
+Gold Medal,1,Thomas CECCON,M,Swimming,Men's 100m Backstroke,1925635,ITA
+Silver Medal,2,XU Jiayu,M,Swimming,Men's 100m Backstroke,1945132,CHN
+Bronze Medal,3,Ryan MURPHY,M,Swimming,Men's 100m Backstroke,1935957,USA
+Gold Medal,1,David POPOVICI,M,Swimming,Men's 200m Freestyle,1543549,ROU
+Silver Medal,2,Matthew RICHARDS,M,Swimming,Men's 200m Freestyle,1903617,GBR
+Bronze Medal,3,Luke HOBSON,M,Swimming,Men's 200m Freestyle,1935918,USA
+Gold Medal,1,Tatjana SMITH,F,Swimming,Women's 100m Breaststroke,1962589,RSA
+Silver Medal,2,TANG Qianting,F,Swimming,Women's 100m Breaststroke,1945200,CHN
+Bronze Medal,3,Mona Mc SHARRY,F,Swimming,Women's 100m Breaststroke,1543304,IRL
+Gold Medal,1,Mollie O'CALLAGHAN,F,Swimming,Women's 200m Freestyle,1946218,AUS
+Silver Medal,2,Ariarne TITMUS,F,Swimming,Women's 200m Freestyle,1946150,AUS
+Bronze Medal,3,HAUGHEY Siobhan Bernadette,F,Swimming,Women's 200m Freestyle,1925125,HKG
+Gold Medal,1,Summer McINTOSH,F,Swimming,Women's 400m Individual Medley,1967140,CAN
+Silver Medal,2,Katie GRIMES,F,Swimming,Women's 400m Individual Medley,1935909,USA
+Bronze Medal,3,Emma WEYANT,F,Swimming,Women's 400m Individual Medley,1936001,USA
+Gold Medal,1,United States,F,Artistic Gymnastics,Women's Team,GARWTEAM----USA01,USA
+Silver Medal,2,Italy,F,Artistic Gymnastics,Women's Team,GARWTEAM----ITA01,ITA
+Bronze Medal,3,Brazil,F,Artistic Gymnastics,Women's Team,GARWTEAM----BRA01,BRA
+Gold Medal,1,Italy,F,Fencing,Women's ï¿½ï¿½ï¿½ï¿,FENWTEAMEPEEITA01,ITA
+Silver Medal,2,France,F,Fencing,Women's ï¿½ï¿½ï¿½ï¿,FENWTEAMEPEEFRA01,FRA
+Bronze Medal,3,Poland,F,Fencing,Women's ï¿½ï¿½ï¿½ï¿,FENWTEAMEPEEPOL01,POL
+Gold Medal,1,NAGASE Takanori,M,Judo,Men -81 kg,1896765,JPN
+Silver Medal,2,Tato GRIGALASHVILI,M,Judo,Men -81 kg,1546651,GEO
+Bronze Medal,3,LEE Joonhwan,M,Judo,Men -81 kg,1928079,KOR
+Bronze Medal,3,Somon MAKHMADBEKOV,M,Judo,Men -81 kg,1570561,TJK
+Gold Medal,1,Andreja LESKI,F,Judo,Women -63 kg,1980833,SLO
+Silver Medal,2,Prisca AWITI ALCARAZ,F,Judo,Women -63 kg,1537287,MEX
+Bronze Medal,3,Clarisse AGBEGNENOU,F,Judo,Women -63 kg,1891289,FRA
+Bronze Medal,3,Laura FAZLIU,F,Judo,Women -63 kg,1550167,KOS
+Gold Medal,1,New Zealand,F,Rugby Sevens,Women,RU7WTEAM7---NZL01,NZL
+Silver Medal,2,Canada,F,Rugby Sevens,Women,RU7WTEAM7---CAN01,CAN
+Bronze Medal,3,United States,F,Rugby Sevens,Women,RU7WTEAM7---USA01,USA
+Gold Medal,1,Serbia,X,Shooting,10m Air Pistol Mixed Team,SHOXAPMT----SRB01,SRB
+Silver Medal,2,Tï¿½ï¿½ï¿½,X,Shooting,10m Air Pistol Mixed Team,SHOXAPMT----TUR02,TUR
+Bronze Medal,3,India 1,X,Shooting,10m Air Pistol Mixed Team,SHOXAPMT----IND01,IND
+Gold Medal,1,Nathan HALES,M,Shooting,Trap Men,1904430,GBR
+Silver Medal,2,QI Ying,M,Shooting,Trap Men,1913928,CHN
+Bronze Medal,3,Jean Pierre BROL CARDENAS,M,Shooting,Trap Men,1958970,GUA
+Gold Medal,1,Great Britain,M,Swimming,Men's 4 x 200m Freestyle Relay,SWMM4X200MFRGBR01,GBR
+Silver Medal,2,United States,M,Swimming,Men's 4 x 200m Freestyle Relay,SWMM4X200MFRUSA01,USA
+Bronze Medal,3,Australia,M,Swimming,Men's 4 x 200m Freestyle Relay,SWMM4X200MFRAUS01,AUS
+Gold Medal,1,Daniel WIFFEN,M,Swimming,Men's 800m Freestyle,1539969,IRL
+Silver Medal,2,Bobby FINKE,M,Swimming,Men's 800m Freestyle,1935902,USA
+Bronze Medal,3,Gregorio PALTRINIERI,M,Swimming,Men's 800m Freestyle,1925630,ITA
+Gold Medal,1,Kaylee McKEOWN,F,Swimming,Women's 100m Backstroke,1946198,AUS
+Silver Medal,2,Regan SMITH,F,Swimming,Women's 100m Backstroke,1935984,USA
+Bronze Medal,3,Katharine BERKOFF,F,Swimming,Women's 100m Backstroke,1935873,USA
+Gold Medal,1,WANG/SUN,X,Table Tennis,Mixed Doubles,TTEXDOUBLES-CHN01,CHN
+Silver Medal,2,RI/KIM,X,Table Tennis,Mixed Doubles,TTEXDOUBLES-PRK01,PRK
+Bronze Medal,3,LIM/SHIN,X,Table Tennis,Mixed Doubles,TTEXDOUBLES-KOR01,KOR
+Gold Medal,1,OKA Shinnosuke,M,Artistic Gymnastics,Men's All-Around,1919480,JPN
+Silver Medal,2,ZHANG Boheng,M,Artistic Gymnastics,Men's All-Around,1918864,CHN
+Bronze Medal,3,XIAO Ruoteng,M,Artistic Gymnastics,Men's All-Around,1918860,CHN
+Gold Medal,1,Jessica FOX,F,Canoe Slalom,Women's Canoe Single,1940205,AUS
+Silver Medal,2,Elena LILIK,F,Canoe Slalom,Women's Canoe Single,1913770,GER
+Bronze Medal,3,Evy LEIBFARTH,F,Canoe Slalom,Women's Canoe Single,1955132,USA
+Gold Medal,1,Jose TORRES GIL,M,Cycling BMX Freestyle,Men's Park,1916809,ARG
+Silver Medal,2,Kieran Darren David REILLY,M,Cycling BMX Freestyle,Men's Park,1912548,GBR
+Bronze Medal,3,Anthony JEANJEAN,M,Cycling BMX Freestyle,Men's Park,1895685,FRA
+Gold Medal,1,DENG Yawen,F,Cycling BMX Freestyle,Women's Park,1920569,CHN
+Silver Medal,2,Perris BENEGAS,F,Cycling BMX Freestyle,Women's Park,1955071,USA
+Bronze Medal,3,Natalya DIEHM,F,Cycling BMX Freestyle,Women's Park,1940118,AUS
+Gold Medal,1,China,F,Diving,Women's Synchronised 10m Platform,DIVW10MTEAM2CHN01,CHN
+Silver Medal,2,DPR Korea,F,Diving,Women's Synchronised 10m Platform,DIVW10MTEAM2PRK01,PRK
+Bronze Medal,3,Great Britain,F,Diving,Women's Synchronised 10m Platform,DIVW10MTEAM2GBR01,GBR
+Gold Medal,1,Korea,M,Fencing,Men's Sabre Team,FENMTEAMSABRKOR01,KOR
+Silver Medal,2,Hungary,M,Fencing,Men's Sabre Team,FENMTEAMSABRHUN01,HUN
+Bronze Medal,3,France,M,Fencing,Men's Sabre Team,FENMTEAMSABRFRA01,FRA
+Gold Medal,1,Lasha BEKAURI,M,Judo,Men -90 kg,1548817,GEO
+Silver Medal,2,MURAO Sanshiro,M,Judo,Men -90 kg,1896750,JPN
+Bronze Medal,3,Maxime-Gael NGAYAP HAMBOU,M,Judo,Men -90 kg,1891318,FRA
+Bronze Medal,3,Theodoros TSELIDIS,M,Judo,Men -90 kg,1961318,GRE
+Gold Medal,1,Barbara MATIC,F,Judo,Women -70 kg,1898499,CRO
+Silver Medal,2,Miriam BUTKEREIT,F,Judo,Women -70 kg,1563082,GER
+Bronze Medal,3,Michaela POLLERES,F,Judo,Women -70 kg,1566421,AUT
+Bronze Medal,3,Gabriella WILLEMS,F,Judo,Women -70 kg,1903248,BEL
+Gold Medal,1,Netherlands,M,Rowing,Men's Quadruple Sculls,ROWMSCULL4--NED01,NED
+Silver Medal,2,Italy,M,Rowing,Men's Quadruple Sculls,ROWMSCULL4--ITA01,ITA
+Bronze Medal,3,Poland,M,Rowing,Men's Quadruple Sculls,ROWMSCULL4--POL01,POL
+Gold Medal,1,Great Britain,F,Rowing,Women's Quadruple Sculls,ROWWSCULL4--GBR01,GBR
+Silver Medal,2,Netherlands,F,Rowing,Women's Quadruple Sculls,ROWWSCULL4--NED01,NED
+Bronze Medal,3,Germany,F,Rowing,Women's Quadruple Sculls,ROWWSCULL4--GER01,GER
+Gold Medal,1,Adriana RUANO OLIVA,F,Shooting,Trap Women,1958899,GUA
+Silver Medal,2,Silvana Maria STANCO,F,Shooting,Trap Women,1915317,ITA
+Bronze Medal,3,Penny SMITH,F,Shooting,Trap Women,1967454,AUS
+Gold Medal,1,PAN Zhanle,M,Swimming,Men's 100m Freestyle,1945148,CHN
+Silver Medal,2,Kyle CHALMERS,M,Swimming,Men's 100m Freestyle,1946200,AUS
+Bronze Medal,3,David POPOVICI,M,Swimming,Men's 100m Freestyle,1543549,ROU
+Gold Medal,1,Leon MARCHAND,M,Swimming,Men's 200m Breaststroke,1909294,FRA
+Silver Medal,2,Zac STUBBLETY-COOK,M,Swimming,Men's 200m Breaststroke,1946185,AUS
+Bronze Medal,3,Caspar CORBEAU,M,Swimming,Men's 200m Breaststroke,1972545,NED
+Gold Medal,1,Leon MARCHAND,M,Swimming,Men's 200m Butterfly,1909294,FRA
+Silver Medal,2,Kristof MILAK,M,Swimming,Men's 200m Butterfly,1905860,HUN
+Bronze Medal,3,Ilya KHARUN,M,Swimming,Men's 200m Butterfly,1967058,CAN
+Gold Medal,1,Sarah SJOESTROEM,F,Swimming,Women's 100m Freestyle,1572557,SWE
+Silver Medal,2,Torri HUSKE,F,Swimming,Women's 100m Freestyle,1935923,USA
+Bronze Medal,3,HAUGHEY Siobhan Bernadette,F,Swimming,Women's 100m Freestyle,1925125,HKG
+Gold Medal,1,Katie LEDECKY,F,Swimming,Women's 1500m Freestyle,1935938,USA
+Silver Medal,2,Anastasiia KIRPICHNIKOVA,F,Swimming,Women's 1500m Freestyle,1909209,FRA
+Bronze Medal,3,Isabel GOSE,F,Swimming,Women's 1500m Freestyle,1907171,GER
+Gold Medal,1,Alex YEE,M,Triathlon,Men's Individual,1904251,GBR
+Silver Medal,2,Hayden WILDE,M,Triathlon,Men's Individual,1926549,NZL
+Bronze Medal,3,Leo BERGERE,M,Triathlon,Men's Individual,1543967,FRA
+Gold Medal,1,Cassandre BEAUGRAND,F,Triathlon,Women's Individual,1543963,FRA
+Silver Medal,2,Julie DERRON,F,Triathlon,Women's Individual,1976489,SUI
+Bronze Medal,3,Beth POTTER,F,Triathlon,Women's Individual,1904244,GBR
+Gold Medal,1,Simone BILES,F,Artistic Gymnastics,Women's All-Around,1959861,USA
+Silver Medal,2,Rebeca ANDRADE,F,Artistic Gymnastics,Women's All-Around,1953634,BRA
+Bronze Medal,3,Sunisa LEE,F,Artistic Gymnastics,Women's All-Around,1959866,USA
+Gold Medal,1,Brian Daniel PINTADO,M,Athletics,Men's 20km Race Walk,1929767,ECU
+Silver Medal,2,Caio BONFIM,M,Athletics,Men's 20km Race Walk,1951928,BRA
+Bronze Medal,3,Alvaro MARTIN,M,Athletics,Men's 20km Race Walk,1904165,ESP
+Gold Medal,1,YANG Jiayu,F,Athletics,Women's 20km Race Walk,1919002,CHN
+Silver Medal,2,Maria PEREZ,F,Athletics,Women's 20km Race Walk,1905369,ESP
+Bronze Medal,3,Jemima MONTAG,F,Athletics,Women's 20km Race Walk,1939791,AUS
+Gold Medal,1,Giovanni de GENNARO,M,Canoe Slalom,Men's Kayak Single,1550975,ITA
+Silver Medal,2,Titouan CASTRYCK,M,Canoe Slalom,Men's Kayak Single,1880464,FRA
+Bronze Medal,3,Pau ECHANIZ,M,Canoe Slalom,Men's Kayak Single,1953935,ESP
+Gold Medal,1,United States,F,Fencing,Women's Foil Team,FENWTEAMFOILUSA01,USA
+Silver Medal,2,Italy,F,Fencing,Women's Foil Team,FENWTEAMFOILITA01,ITA
+Bronze Medal,3,Japan,F,Fencing,Women's Foil Team,FENWTEAMFOILJPN01,JPN
+Gold Medal,1,Zelym KOTSOIEV,M,Judo,Men -100 kg,1972367,AZE
+Silver Medal,2,Ilia SULAMANIDZE,M,Judo,Men -100 kg,1552370,GEO
+Bronze Medal,3,Peter PALTCHIK,M,Judo,Men -100 kg,1892957,ISR
+Bronze Medal,3,Muzaffarbek TUROBOYEV,M,Judo,Men -100 kg,1565754,UZB
+Gold Medal,1,Alice BELLANDI,F,Judo,Women -78 kg,1925349,ITA
+Silver Medal,2,Inbar LANIR,F,Judo,Women -78 kg,1892794,ISR
+Bronze Medal,3,MA Zhenzhao,F,Judo,Women -78 kg,1891067,CHN
+Bronze Medal,3,Patricia SAMPAIO,F,Judo,Women -78 kg,1943504,POR
+Gold Medal,1,Romania,M,Rowing,Men's Double Sculls,ROWMSCULL2--ROU01,ROU
+Silver Medal,2,Netherlands,M,Rowing,Men's Double Sculls,ROWMSCULL2--NED01,NED
+Bronze Medal,3,Ireland,M,Rowing,Men's Double Sculls,ROWMSCULL2--IRL01,IRL
+Gold Medal,1,United States,M,Rowing,Men's Four,ROWMNOCOX4--USA01,USA
+Silver Medal,2,New Zealand,M,Rowing,Men's Four,ROWMNOCOX4--NZL01,NZL
+Bronze Medal,3,Great Britain,M,Rowing,Men's Four,ROWMNOCOX4--GBR01,GBR
+Gold Medal,1,New Zealand,F,Rowing,Women's Double Sculls,ROWWSCULL2--NZL01,NZL
+Silver Medal,2,Romania,F,Rowing,Women's Double Sculls,ROWWSCULL2--ROU01,ROU
+Bronze Medal,3,Great Britain,F,Rowing,Women's Double Sculls,ROWWSCULL2--GBR01,GBR
+Gold Medal,1,Netherlands,F,Rowing,Women's Four,ROWWNOCOX4--NED01,NED
+Silver Medal,2,Great Britain,F,Rowing,Women's Four,ROWWNOCOX4--GBR01,GBR
+Bronze Medal,3,New Zealand,F,Rowing,Women's Four,ROWWNOCOX4--NZL01,NZL
+Gold Medal,1,LIU Yukun,M,Shooting,50m Rifle 3 Positions Men,1913922,CHN
+Silver Medal,2,Serhiy KULISH,M,Shooting,50m Rifle 3 Positions Men,1555976,UKR
+Bronze Medal,3,Swapnil KUSALE,M,Shooting,50m Rifle 3 Positions Men,1538084,IND
+Gold Medal,1,Hubert KOS,M,Swimming,Men's 200m Backstroke,1904977,HUN
+Silver Medal,2,Apostolos CHRISTOU,M,Swimming,Men's 200m Backstroke,1954557,GRE
+Bronze Medal,3,Roman MITYUKOV,M,Swimming,Men's 200m Backstroke,1977754,SUI
+Gold Medal,1,Kate DOUGLASS,F,Swimming,Women's 200m Breaststroke,1935895,USA
+Silver Medal,2,Tatjana SMITH,F,Swimming,Women's 200m Breaststroke,1962589,RSA
+Bronze Medal,3,Tes SCHOUTEN,F,Swimming,Women's 200m Breaststroke,1972525,NED
+Gold Medal,1,Summer McINTOSH,F,Swimming,Women's 200m Butterfly,1967140,CAN
+Silver Medal,2,Regan SMITH,F,Swimming,Women's 200m Butterfly,1935984,USA
+Bronze Medal,3,ZHANG Yufei,F,Swimming,Women's 200m Butterfly,1945125,CHN
+Gold Medal,1,Australia,F,Swimming,Women's 4 x 200m Freestyle Relay,SWMW4X200MFRAUS01,AUS
+Silver Medal,2,United States,F,Swimming,Women's 4 x 200m Freestyle Relay,SWMW4X200MFRUSA01,USA
+Bronze Medal,3,China,F,Swimming,Women's 4 x 200m Freestyle Relay,SWMW4X200MFRCHN01,CHN
+Gold Medal,1,Korea,X,Archery,Mixed Team,ARCXTEAM2---KOR01,KOR
+Silver Medal,2,Germany,X,Archery,Mixed Team,ARCXTEAM2---GER01,GER
+Bronze Medal,3,United States,X,Archery,Mixed Team,ARCXTEAM2---USA01,USA
+Gold Medal,1,Joshua CHEPTEGEI,M,Athletics,"Men's 10,000m",1970827,UGA
+Silver Medal,2,Berihu AREGAWI,M,Athletics,"Men's 10,000m",1536998,ETH
+Bronze Medal,3,Grant FISHER,M,Athletics,"Men's 10,000m",1960959,USA
+Gold Medal,1,ZHENG/HUANG,X,Badminton,Mixed Doubles,BDMXDOUBLES-CHN02,CHN
+Silver Medal,2,KIM/JEONG,X,Badminton,Mixed Doubles,BDMXDOUBLES-KOR02,KOR
+Bronze Medal,3,WATANABE/HIGASHINO,X,Badminton,Mixed Doubles,BDMXDOUBLES-JPN01,JPN
+Gold Medal,1,Joris DAUDET,M,Cycling BMX Racing,Men,1895661,FRA
+Silver Medal,2,Sylvain ANDRE,M,Cycling BMX Racing,Men,1895640,FRA
+Bronze Medal,3,Romain MAHIEU,M,Cycling BMX Racing,Men,1895700,FRA
+Gold Medal,1,Saya SAKAKIBARA,F,Cycling BMX Racing,Women,1940127,AUS
+Silver Medal,2,Manon VEENSTRA,F,Cycling BMX Racing,Women,1969181,NED
+Bronze Medal,3,Zoe CLAESSENS,F,Cycling BMX Racing,Women,1976480,SUI
+Gold Medal,1,China,M,Diving,Men's Synchronised 3m Springboard,DIVM3MTEAM2-CHN01,CHN
+Silver Medal,2,Mexico,M,Diving,Men's Synchronised 3m Springboard,DIVM3MTEAM2-MEX01,MEX
+Bronze Medal,3,Great Britain,M,Diving,Men's Synchronised 3m Springboard,DIVM3MTEAM2-GBR01,GBR
+Gold Medal,1,Great Britain,O,Equestrian,Jumping Team,EQUOJUMPTEAMGBR01,GBR
+Silver Medal,2,United States,O,Equestrian,Jumping Team,EQUOJUMPTEAMUSA01,USA
+Bronze Medal,3,France,O,Equestrian,Jumping Team,EQUOJUMPTEAMFRA01,FRA
+Gold Medal,1,Hungary,M,Fencing,Men's ï¿½ï¿½ï¿½ï¿,FENMTEAMEPEEHUN01,HUN
+Silver Medal,2,Japan,M,Fencing,Men's ï¿½ï¿½ï¿½ï¿,FENMTEAMEPEEJPN01,JPN
+Bronze Medal,3,Czechia,M,Fencing,Men's ï¿½ï¿½ï¿½ï¿,FENMTEAMEPEECZE01,CZE
+Gold Medal,1,Teddy RINER,M,Judo,Men +100 kg,1891323,FRA
+Silver Medal,2,KIM Minjong,M,Judo,Men +100 kg,1928072,KOR
+Bronze Medal,3,Temur RAKHIMOV,M,Judo,Men +100 kg,1567512,TJK
+Bronze Medal,3,Alisher YUSUPOV,M,Judo,Men +100 kg,1566931,UZB
+Gold Medal,1,Beatriz SOUZA,F,Judo,Women +78 kg,1953777,BRA
+Silver Medal,2,Raz HERSHKO,F,Judo,Women +78 kg,1892796,ISR
+Bronze Medal,3,KIM Hayun,F,Judo,Women +78 kg,1928070,KOR
+Bronze Medal,3,Romane DICKO,F,Judo,Women +78 kg,1891300,FRA
+Gold Medal,1,Ireland,M,Rowing,Lightweight Men's Double Sculls,ROWMSCULL2-LIRL01,IRL
+Silver Medal,2,Italy,M,Rowing,Lightweight Men's Double Sculls,ROWMSCULL2-LITA01,ITA
+Bronze Medal,3,Greece,M,Rowing,Lightweight Men's Double Sculls,ROWMSCULL2-LGRE01,GRE
+Gold Medal,1,Great Britain,F,Rowing,Lightweight Women's Double Sculls,ROWWSCULL2-LGBR01,GBR
+Silver Medal,2,Romania,F,Rowing,Lightweight Women's Double Sculls,ROWWSCULL2-LROU01,ROU
+Bronze Medal,3,Greece,F,Rowing,Lightweight Women's Double Sculls,ROWWSCULL2-LGRE01,GRE
+Gold Medal,1,Croatia,M,Rowing,Men's Pair,ROWMNOCOX2--CRO01,CRO
+Silver Medal,2,Great Britain,M,Rowing,Men's Pair,ROWMNOCOX2--GBR01,GBR
+Bronze Medal,3,Switzerland,M,Rowing,Men's Pair,ROWMNOCOX2--SUI01,SUI
+Gold Medal,1,Netherlands,F,Rowing,Women's Pair,ROWWNOCOX2--NED01,NED
+Silver Medal,2,Romania,F,Rowing,Women's Pair,ROWWNOCOX2--ROU01,ROU
+Bronze Medal,3,Australia,F,Rowing,Women's Pair,ROWWNOCOX2--AUS01,AUS
+Gold Medal,1,BOTIN/TRITTEL,M,Sailing,Men's Skiff,SALM49ER----ESP01,ESP
+Silver Medal,2,McHARDIE/McKENZIE,M,Sailing,Men's Skiff,SALM49ER----NZL01,NZL
+Bronze Medal,3,BARROWS/HENKEN,M,Sailing,Men's Skiff,SALM49ER----USA01,USA
+Gold Medal,1,AANHOLT/DUETZ,F,Sailing,Women's Skiff,SALW49ERFX--NED01,NED
+Silver Medal,2,BOBECK/NETZLER,F,Sailing,Women's Skiff,SALW49ERFX--SWE01,SWE
+Bronze Medal,3,STEYAERT/PICON,F,Sailing,Women's Skiff,SALW49ERFX--FRA01,FRA
+Gold Medal,1,Chiara LEONE,F,Shooting,50m Rifle 3 Positions Women,1977709,SUI
+Silver Medal,2,Sagen MADDALENA,F,Shooting,50m Rifle 3 Positions Women,1944373,USA
+Bronze Medal,3,ZHANG Qiongyue,F,Shooting,50m Rifle 3 Positions Women,1913972,CHN
+Gold Medal,1,Leon MARCHAND,M,Swimming,Men's 200m Individual Medley,1909294,FRA
+Silver Medal,2,Duncan SCOTT,M,Swimming,Men's 200m Individual Medley,1903621,GBR
+Bronze Medal,3,WANG Shun,M,Swimming,Men's 200m Individual Medley,1945186,CHN
+Gold Medal,1,Cameron McEVOY,M,Swimming,Men's 50m Freestyle,1946161,AUS
+Silver Medal,2,Benjamin PROUD,M,Swimming,Men's 50m Freestyle,1903616,GBR
+Bronze Medal,3,Florent MANAUDOU,M,Swimming,Men's 50m Freestyle,1909292,FRA
+Gold Medal,1,Kaylee McKEOWN,F,Swimming,Women's 200m Backstroke,1946198,AUS
+Silver Medal,2,Regan SMITH,F,Swimming,Women's 200m Backstroke,1935984,USA
+Bronze Medal,3,Kylie MASSE,F,Swimming,Women's 200m Backstroke,1967104,CAN
+Gold Medal,1,SINIAKOVA/MACHAC,X,Tennis,Mixed Doubles,TENXDOUBLES-CZE01,CZE
+Silver Medal,2,WANG/ZHANG,X,Tennis,Mixed Doubles,TENXDOUBLES-CHN01,CHN
+Bronze Medal,3,DABROWSKI/AUGER-ALIAS,X,Tennis,Mixed Doubles,TENXDOUBLES-CAN01,CAN
+Bronze Medal,3,Iga SWIATEK,F,Tennis,Women's Singles,1931815,POL
+Gold Medal,1,Ivan LITVINOVICH,M,Trampoline Gymnastics,Men,1937347,AIN
+Silver Medal,2,WANG Zisai,M,Trampoline Gymnastics,Men,1918790,CHN
+Bronze Medal,3,YAN Langyu,M,Trampoline Gymnastics,Men,1918789,CHN
+Gold Medal,1,Bryony PAGE,F,Trampoline Gymnastics,Women,1904745,GBR
+Silver Medal,2,Viyaleta BARDZILOUSKAYA,F,Trampoline Gymnastics,Women,1938437,AIN
+Bronze Medal,3,Sophiane METHOT,F,Trampoline Gymnastics,Women,1973102,CAN
+Gold Medal,1,LIM Sihyeon,F,Archery,Women's Individual,1902147,KOR
+Silver Medal,2,NAM Suhyeon,F,Archery,Women's Individual,1902148,KOR
+Bronze Medal,3,Lisa BARBELIN,F,Archery,Women's Individual,1541265,FRA
+Gold Medal,1,Carlos Edriel YULO,M,Artistic Gymnastics,Men's Floor Exercise,1975874,PHI
+Silver Medal,2,Artem DOLGOPYAT,M,Artistic Gymnastics,Men's Floor Exercise,1908195,ISR
+Bronze Medal,3,Jake JARMAN,M,Artistic Gymnastics,Men's Floor Exercise,1904741,GBR
+Gold Medal,1,Rhys MC CLENAGHAN,M,Artistic Gymnastics,Men's Pommel Horse,1539986,IRL
+Silver Medal,2,Nariman KURBANOV,M,Artistic Gymnastics,Men's Pommel Horse,1931577,KAZ
+Bronze Medal,3,Stephen NEDOROSCIK,M,Artistic Gymnastics,Men's Pommel Horse,1959865,USA
+Gold Medal,1,Simone BILES,F,Artistic Gymnastics,Women's Vault,1959861,USA
+Silver Medal,2,Rebeca ANDRADE,F,Artistic Gymnastics,Women's Vault,1953634,BRA
+Bronze Medal,3,Jade CAREY,F,Artistic Gymnastics,Women's Vault,1959819,USA
+Gold Medal,1,Netherlands,X,Athletics,4 x 400m Relay Mixed,ATHX4X400M--NED01,NED
+Silver Medal,2,United States,X,Athletics,4 x 400m Relay Mixed,ATHX4X400M--USA01,USA
+Bronze Medal,3,Great Britain,X,Athletics,4 x 400m Relay Mixed,ATHX4X400M--GBR01,GBR
+Gold Medal,1,Markus ROOTH,M,Athletics,Men's Decathlon,1878353,NOR
+Silver Medal,2,Leo NEUGEBAUER,M,Athletics,Men's Decathlon,1920180,GER
+Bronze Medal,3,Lindon VICTOR,M,Athletics,Men's Decathlon,1573388,GRN
+Gold Medal,1,Ryan CROUSER,M,Athletics,Men's Shot Put,1960688,USA
+Silver Medal,2,Joe KOVACS,M,Athletics,Men's Shot Put,1965246,USA
+Bronze Medal,3,Rajindra CAMPBELL,M,Athletics,Men's Shot Put,1564189,JAM
+Gold Medal,1,Julien ALFRED,F,Athletics,Women's 100m,1537325,LCA
+Silver Medal,2,Sha'carri RICHARDSON,F,Athletics,Women's 100m,1960181,USA
+Bronze Medal,3,Melissa JEFFERSON,F,Athletics,Women's 100m,1961011,USA
+Gold Medal,1,Thea LAFOND,F,Athletics,Women's Triple Jump,1908333,DMA
+Silver Medal,2,Shanieka RICKETTS,F,Athletics,Women's Triple Jump,1536885,JAM
+Bronze Medal,3,Jasmine MOORE,F,Athletics,Women's Triple Jump,1965250,USA
+Gold Medal,1,CHEN/JIA,F,Badminton,Women's Doubles,BDMWDOUBLES-CHN02,CHN
+Silver Medal,2,LIU/TAN,F,Badminton,Women's Doubles,BDMWDOUBLES-CHN01,CHN
+Bronze Medal,3,MATSUYAMA/SHIDA,F,Badminton,Women's Doubles,BDMWDOUBLES-JPN01,JPN
+Bronze Medal,3,WU Shih Yi,F,Boxing,Women's 60kg,1887970,TPE
+Bronze Medal,3,Beatriz Iasmin SOARES FERREIRA,F,Boxing,Women's 60kg,1952540,BRA
+Gold Medal,1,Remco EVENEPOEL,M,Cycling Road,Men's Road Race,1903136,BEL
+Silver Medal,2,Valentin MADOUAS,M,Cycling Road,Men's Road Race,1895699,FRA
+Bronze Medal,3,Christophe LAPORTE,M,Cycling Road,Men's Road Race,1895694,FRA
+Gold Medal,1,Germany,O,Equestrian,Dressage Team,EQUODRESTEAMGER01,GER
+Silver Medal,2,Denmark,O,Equestrian,Dressage Team,EQUODRESTEAMDEN01,DEN
+Bronze Medal,3,Great Britain,O,Equestrian,Dressage Team,EQUODRESTEAMGBR01,GBR
+Gold Medal,1,Ukraine,F,Fencing,Women's Sabre Team,FENWTEAMSABRUKR01,UKR
+Silver Medal,2,Korea,F,Fencing,Women's Sabre Team,FENWTEAMSABRKOR01,KOR
+Bronze Medal,3,Japan,F,Fencing,Women's Sabre Team,FENWTEAMSABRJPN01,JPN
+Gold Medal,1,France,X,Judo,Mixed Team,JUDXTEAM6---FRA01,FRA
+Silver Medal,2,Japan,X,Judo,Mixed Team,JUDXTEAM6---JPN01,JPN
+Bronze Medal,3,Brazil,X,Judo,Mixed Team,JUDXTEAM6---BRA01,BRA
+Bronze Medal,3,Korea,X,Judo,Mixed Team,JUDXTEAM6---KOR01,KOR
+Gold Medal,1,Great Britain,M,Rowing,Men's Eight,ROWMCOXED8--GBR01,GBR
+Silver Medal,2,Netherlands,M,Rowing,Men's Eight,ROWMCOXED8--NED01,NED
+Bronze Medal,3,United States,M,Rowing,Men's Eight,ROWMCOXED8--USA01,USA
+Gold Medal,1,Oliver ZEIDLER,M,Rowing,Men's Single Sculls,1906515,GER
+Silver Medal,2,Yauheni ZALATY,M,Rowing,Men's Single Sculls,1538160,AIN
+Bronze Medal,3,Simon van DORP,M,Rowing,Men's Single Sculls,1965599,NED
+Gold Medal,1,Romania,F,Rowing,Women's Eight,ROWWCOXED8--ROU01,ROU
+Silver Medal,2,Canada,F,Rowing,Women's Eight,ROWWCOXED8--CAN01,CAN
+Bronze Medal,3,Great Britain,F,Rowing,Women's Eight,ROWWCOXED8--GBR01,GBR
+Gold Medal,1,Karolien FLORIJN,F,Rowing,Women's Single Sculls,1965558,NED
+Silver Medal,2,Emma TWIGG,F,Rowing,Women's Single Sculls,1927027,NZL
+Bronze Medal,3,Viktorija SENKUTE,F,Rowing,Women's Single Sculls,1941956,LTU
+Gold Medal,1,Tom REUVENY,M,Sailing,Men's Windsurfing,1927680,ISR
+Silver Medal,2,Grae MORRIS,M,Sailing,Men's Windsurfing,1945982,AUS
+Bronze Medal,3,Luuc van OPZEELAND,M,Sailing,Men's Windsurfing,1970505,NED
+Gold Medal,1,Marta MAGGETTI,F,Sailing,Women's Windsurfing,1899653,ITA
+Silver Medal,2,Sharon KANTOR,F,Sailing,Women's Windsurfing,1927733,ISR
+Bronze Medal,3,Emma WILSON,F,Sailing,Women's Windsurfing,1899748,GBR
+Gold Medal,1,YANG Jiin,F,Shooting,25m Pistol Women,1893995,KOR
+Silver Medal,2,Camille JEDRZEJEWSKI,F,Shooting,25m Pistol Women,1888429,FRA
+Bronze Medal,3,Veronika MAJOR,F,Shooting,25m Pistol Women,1899493,HUN
+Gold Medal,1,Vincent HANCOCK,M,Shooting,Skeet Men,1944354,USA
+Silver Medal,2,Conner Lynn PRINCE,M,Shooting,Skeet Men,1944385,USA
+Bronze Medal,3,LEE Meng Yuan,M,Shooting,Skeet Men,1569852,TPE
+Gold Medal,1,Kristof MILAK,M,Swimming,Men's 100m Butterfly,1905860,HUN
+Silver Medal,2,Josh LIENDO,M,Swimming,Men's 100m Butterfly,1967069,CAN
+Bronze Medal,3,Ilya KHARUN,M,Swimming,Men's 100m Butterfly,1967058,CAN
+Gold Medal,1,United States,X,Swimming,Mixed 4 x 100m Medley Relay,SWMX4X100MMDUSA01,USA
+Silver Medal,2,China,X,Swimming,Mixed 4 x 100m Medley Relay,SWMX4X100MMDCHN01,CHN
+Bronze Medal,3,Australia,X,Swimming,Mixed 4 x 100m Medley Relay,SWMX4X100MMDAUS01,AUS
+Gold Medal,1,Summer McINTOSH,F,Swimming,Women's 200m Individual Medley,1967140,CAN
+Silver Medal,2,Kate DOUGLASS,F,Swimming,Women's 200m Individual Medley,1935895,USA
+Bronze Medal,3,Kaylee McKEOWN,F,Swimming,Women's 200m Individual Medley,1946198,AUS
+Gold Medal,1,Katie LEDECKY,F,Swimming,Women's 800m Freestyle,1935938,USA
+Silver Medal,2,Ariarne TITMUS,F,Swimming,Women's 800m Freestyle,1946150,AUS
+Bronze Medal,3,Paige MADDEN,F,Swimming,Women's 800m Freestyle,1935943,USA
+Gold Medal,1,CHEN Meng,F,Table Tennis,Women's Singles,1902307,CHN
+Silver Medal,2,SUN Yingsha,F,Table Tennis,Women's Singles,1902313,CHN
+Bronze Medal,3,Hina HAYATA,F,Table Tennis,Women's Singles,1931100,JPN
+Gold Medal,1,EBDEN/PEERS,M,Tennis,Men's Doubles,TENMDOUBLES-AUS02,AUS
+Silver Medal,2,KRAJICEK/RAM,M,Tennis,Men's Doubles,TENMDOUBLES-USA02,USA
+Bronze Medal,3,FRITZ/PAUL,M,Tennis,Men's Doubles,TENMDOUBLES-USA01,USA
+Bronze Medal,3,Lorenzo MUSETTI,M,Tennis,Men's Singles,1562400,ITA
+Gold Medal,1,ZHENG Qinwen,F,Tennis,Women's Singles,1927709,CHN
+Silver Medal,2,Donna VEKIC,F,Tennis,Women's Singles,1554972,CRO
+Gold Medal,1,KIM Woojin,M,Archery,Men's Individual,1902135,KOR
+Silver Medal,2,Brady ELLISON,M,Archery,Men's Individual,1955595,USA
+Bronze Medal,3,LEE Wooseok,M,Archery,Men's Individual,1902144,KOR
+Gold Medal,1,LIU Yang,M,Artistic Gymnastics,Men's Rings,1918856,CHN
+Silver Medal,2,ZOU Jingyuan,M,Artistic Gymnastics,Men's Rings,1918865,CHN
+Bronze Medal,3,Eleftherios PETROUNIAS,M,Artistic Gymnastics,Men's Rings,1961314,GRE
+Gold Medal,1,Carlos Edriel YULO,M,Artistic Gymnastics,Men's Vault,1975874,PHI
+Silver Medal,2,Artur DAVTYAN,M,Artistic Gymnastics,Men's Vault,1915828,ARM
+Bronze Medal,3,Harry HEPWORTH,M,Artistic Gymnastics,Men's Vault,1904740,GBR
+Gold Medal,1,Kaylia NEMOUR,F,Artistic Gymnastics,Women's Uneven Bars,1545688,ALG
+Silver Medal,2,QIU Qiyuan,F,Artistic Gymnastics,Women's Uneven Bars,1918872,CHN
+Bronze Medal,3,Sunisa LEE,F,Artistic Gymnastics,Women's Uneven Bars,1959866,USA
+Gold Medal,1,Noah LYLES,M,Athletics,Men's 100m,1960173,USA
+Silver Medal,2,Kishane THOMPSON,M,Athletics,Men's 100m,1980161,JAM
+Bronze Medal,3,Fred KERLEY,M,Athletics,Men's 100m,1960958,USA
+Gold Medal,1,Ethan KATZBERG,M,Athletics,Men's Hammer Throw,1974151,CAN
+Silver Medal,2,Bence HALASZ,M,Athletics,Men's Hammer Throw,1916814,HUN
+Bronze Medal,3,Mykhaylo KOKHAN,M,Athletics,Men's Hammer Throw,1571563,UKR
+Gold Medal,1,Yaroslava MAHUCHIKH,F,Athletics,Women's High Jump,1571559,UKR
+Silver Medal,2,Nicola OLYSLAGERS,F,Athletics,Women's High Jump,1939838,AUS
+Bronze Medal,3,Iryna GERASHCHENKO,F,Athletics,Women's High Jump,1571577,UKR
+Bronze Medal,3,Eleanor PATTERSON,F,Athletics,Women's High Jump,1939763,AUS
+Gold Medal,1,LEE/WANG,M,Badminton,Men's Doubles,BDMMDOUBLES-TPE01,TPE
+Silver Medal,2,LIANG/WANG,M,Badminton,Men's Doubles,BDMMDOUBLES-CHN02,CHN
+Bronze Medal,3,CHIA/SOH,M,Badminton,Men's Doubles,BDMMDOUBLES-MAS01,MAS
+Bronze Medal,3,Gregoria Mariska TUNJUNG,F,Badminton,Women's Singles,1926315,INA
+Bronze Medal,3,Yunior ALCANTARA REYES,M,Boxing,Men's 51kg,1908817,DOM
+Bronze Medal,3,David de PINA,M,Boxing,Men's 51kg,1892464,CPV
+Bronze Medal,3,Wyatt SANFORD,M,Boxing,Men's 63.5kg,1972293,CAN
+Bronze Medal,3,Lasha GURULI,M,Boxing,Men's 63.5kg,1550184,GEO
+Bronze Medal,3,Cristian Javier PINALES,M,Boxing,Men's 80kg,1943368,DOM
+Bronze Medal,3,Arlen LOPEZ CARDONA,M,Boxing,Men's 80kg,1555548,CUB
+Bronze Medal,3,Enmanuel REYES PLA,M,Boxing,Men's 92kg,1934790,ESP
+Bronze Medal,3,Davlat BOLTAEV,M,Boxing,Men's 92kg,1909011,TJK
+Bronze Medal,3,PANG Cholmi,F,Boxing,Women's 54kg,1980125,PRK
+Bronze Medal,3,IM Aeji,F,Boxing,Women's 54kg,1891890,KOR
+Gold Medal,1,Kristen FAULKNER,F,Cycling Road,Women's Road Race,1955081,USA
+Silver Medal,2,Marianne VOS,F,Cycling Road,Women's Road Race,1969165,NED
+Bronze Medal,3,Lotte KOPECKY,F,Cycling Road,Women's Road Race,1903120,BEL
+Gold Medal,1,Jessica von BREDOW-WERNDL,O,Equestrian,Dressage Individual,1914905,GER
+Silver Medal,2,Isabell WERTH,O,Equestrian,Dressage Individual,1914909,GER
+Bronze Medal,3,Charlotte FRY,O,Equestrian,Dressage Individual,1970905,GBR
+Gold Medal,1,Japan,M,Fencing,Men's Foil Team,FENMTEAMFOILJPN01,JPN
+Silver Medal,2,Italy,M,Fencing,Men's Foil Team,FENMTEAMFOILITA01,ITA
+Bronze Medal,3,France,M,Fencing,Men's Foil Team,FENMTEAMFOILFRA01,FRA
+Gold Medal,1,Scottie SCHEFFLER,M,Golf,Men's Individual Stroke Play,1951724,USA
+Silver Medal,2,Tommy FLEETWOOD,M,Golf,Men's Individual Stroke Play,1923629,GBR
+Bronze Medal,3,MATSUYAMA Hideki,M,Golf,Men's Individual Stroke Play,1961406,JPN
+Gold Medal,1,Francisca CROVETTO CHADID,F,Shooting,Skeet Women,1937878,CHI
+Silver Medal,2,Amber Jo RUTTER,F,Shooting,Skeet Women,1977402,GBR
+Bronze Medal,3,Austen Jewell SMITH,F,Shooting,Skeet Women,1944397,USA
+Gold Medal,1,Bobby FINKE,M,Swimming,Men's 1500m Freestyle,1935902,USA
+Silver Medal,2,Gregorio PALTRINIERI,M,Swimming,Men's 1500m Freestyle,1925630,ITA
+Bronze Medal,3,Daniel WIFFEN,M,Swimming,Men's 1500m Freestyle,1539969,IRL
+Gold Medal,1,China,M,Swimming,Men's 4 x 100m Medley Relay,SWMM4X100MMDCHN01,CHN
+Silver Medal,2,United States,M,Swimming,Men's 4 x 100m Medley Relay,SWMM4X100MMDUSA01,USA
+Bronze Medal,3,France,M,Swimming,Men's 4 x 100m Medley Relay,SWMM4X100MMDFRA01,FRA
+Gold Medal,1,United States,F,Swimming,Women's 4 x 100m Medley Relay,SWMW4X100MMDUSA01,USA
+Silver Medal,2,Australia,F,Swimming,Women's 4 x 100m Medley Relay,SWMW4X100MMDAUS01,AUS
+Bronze Medal,3,China,F,Swimming,Women's 4 x 100m Medley Relay,SWMW4X100MMDCHN01,CHN
+Gold Medal,1,Sarah SJOESTROEM,F,Swimming,Women's 50m Freestyle,1572557,SWE
+Silver Medal,2,Meg HARRIS,F,Swimming,Women's 50m Freestyle,1946212,AUS
+Bronze Medal,3,ZHANG Yufei,F,Swimming,Women's 50m Freestyle,1945125,CHN
+Gold Medal,1,FAN Zhendong,M,Table Tennis,Men's Singles,1902295,CHN
+Silver Medal,2,Truls MOREGARD,M,Table Tennis,Men's Singles,1563390,SWE
+Bronze Medal,3,Felix LEBRUN,M,Table Tennis,Men's Singles,1889177,FRA
+Gold Medal,1,Novak DJOKOVIC,M,Tennis,Men's Singles,1956398,SRB
+Silver Medal,2,Carlos ALCARAZ,M,Tennis,Men's Singles,1563682,ESP
+Gold Medal,1,ERRANI/PAOLINI,F,Tennis,Women's Doubles,TENWDOUBLES-ITA01,ITA
+Silver Medal,2,ANDREEVA/SHNAIDER,F,Tennis,Women's Doubles,TENWDOUBLES-AIN02,AIN
+Bronze Medal,3,BUCSA/SORRIBES TORMO,F,Tennis,Women's Doubles,TENWDOUBLES-ESP01,ESP
+Gold Medal,1,Netherlands,M,3x3 Basketball,Men,BK3MTEAM3---NED01,NED
+Silver Medal,2,France,M,3x3 Basketball,Men,BK3MTEAM3---FRA01,FRA
+Bronze Medal,3,Lithuania,M,3x3 Basketball,Men,BK3MTEAM3---LTU01,LTU
+Gold Medal,1,Germany,F,3x3 Basketball,Women,BK3WTEAM3---GER01,GER
+Silver Medal,2,Spain,F,3x3 Basketball,Women,BK3WTEAM3---ESP01,ESP
+Bronze Medal,3,United States,F,3x3 Basketball,Women,BK3WTEAM3---USA01,USA
+Gold Medal,1,OKA Shinnosuke,M,Artistic Gymnastics,Men's Horizontal Bar,1919480,JPN
+Silver Medal,2,Angel BARAJAS,M,Artistic Gymnastics,Men's Horizontal Bar,1935685,COL
+Bronze Medal,3,ZHANG Boheng,M,Artistic Gymnastics,Men's Horizontal Bar,1918864,CHN
+Bronze Medal,3,TANG Chia-Hung,M,Artistic Gymnastics,Men's Horizontal Bar,1878037,TPE
+Gold Medal,1,ZOU Jingyuan,M,Artistic Gymnastics,Men's Parallel Bars,1918865,CHN
+Silver Medal,2,Illia KOVTUN,M,Artistic Gymnastics,Men's Parallel Bars,1897555,UKR
+Bronze Medal,3,OKA Shinnosuke,M,Artistic Gymnastics,Men's Parallel Bars,1919480,JPN
+Gold Medal,1,Alice D'AMATO,F,Artistic Gymnastics,Women's Balance Beam,1551061,ITA
+Silver Medal,2,ZHOU Yaqin,F,Artistic Gymnastics,Women's Balance Beam,1918881,CHN
+Bronze Medal,3,Manila ESPOSITO,F,Artistic Gymnastics,Women's Balance Beam,1560762,ITA
+Gold Medal,1,Rebeca ANDRADE,F,Artistic Gymnastics,Women's Floor Exercise,1953634,BRA
+Silver Medal,2,Simone BILES,F,Artistic Gymnastics,Women's Floor Exercise,1959861,USA
+Bronze Medal,3,Ana BARBOSU,F,Artistic Gymnastics,Women's Floor Exercise,1550170,ROU
+Gold Medal,1,Armand DUPLANTIS,M,Athletics,Men's Pole Vault,1569203,SWE
+Silver Medal,2,Sam KENDRICKS,M,Athletics,Men's Pole Vault,1960178,USA
+Bronze Medal,3,Emmanouil KARALIS,M,Athletics,Men's Pole Vault,1961218,GRE
+Gold Medal,1,Beatrice CHEBET,F,Athletics,Women's 5000m,1910560,KEN
+Silver Medal,2,Faith KIPYEGON,F,Athletics,Women's 5000m,1910451,KEN
+Bronze Medal,3,Sifan HASSAN,F,Athletics,Women's 5000m,1972105,NED
+Gold Medal,1,Keely HODGKINSON,F,Athletics,Women's 800m,1924429,GBR
+Silver Medal,2,Tsige DUGUMA,F,Athletics,Women's 800m,1536498,ETH
+Bronze Medal,3,Mary MORAA,F,Athletics,Women's 800m,1928047,KEN
+Gold Medal,1,Valarie ALLMAN,F,Athletics,Women's Discus Throw,1960721,USA
+Silver Medal,2,FENG Bin,F,Athletics,Women's Discus Throw,1919067,CHN
+Bronze Medal,3,Sandra ELKASEVIC,F,Athletics,Women's Discus Throw,1922205,CRO
+Gold Medal,1,Viktor AXELSEN,M,Badminton,Men's Singles,1888993,DEN
+Silver Medal,2,Kunlavut VITIDSARN,M,Badminton,Men's Singles,1926294,THA
+Bronze Medal,3,Zii Jia LEE,M,Badminton,Men's Singles,1566617,MAS
+Gold Medal,1,AN Se Young,F,Badminton,Women's Singles,1891498,KOR
+Silver Medal,2,HE Bing Jiao,F,Badminton,Women's Singles,1913436,CHN
+Gold Medal,1,Finn BUTCHER,M,Canoe Slalom,Men's Kayak Cross,1945386,NZL
+Silver Medal,2,Joseph CLARKE,M,Canoe Slalom,Men's Kayak Cross,1896032,GBR
+Bronze Medal,3,Noah HEGGE,M,Canoe Slalom,Men's Kayak Cross,1913780,GER
+Gold Medal,1,Noemie FOX,F,Canoe Slalom,Women's Kayak Cross,1940209,AUS
+Silver Medal,2,Angele HUG,F,Canoe Slalom,Women's Kayak Cross,1880483,FRA
+Bronze Medal,3,Kimberley WOODS,F,Canoe Slalom,Women's Kayak Cross,1896045,GBR
+Gold Medal,1,Great Britain,F,Cycling Track,Women's Team Sprint,CTRWSPRTEAM3GBR01,GBR
+Silver Medal,2,New Zealand,F,Cycling Track,Women's Team Sprint,CTRWSPRTEAM3NZL01,NZL
+Bronze Medal,3,Germany,F,Cycling Track,Women's Team Sprint,CTRWSPRTEAM3GER01,GER
+Gold Medal,1,LI Yuehong,M,Shooting,25m Rapid Fire Pistol Men,1913913,CHN
+Silver Medal,2,CHO Yeongjae,M,Shooting,25m Rapid Fire Pistol Men,1893852,KOR
+Bronze Medal,3,WANG Xinjie,M,Shooting,25m Rapid Fire Pistol Men,1913919,CHN
+Gold Medal,1,Italy 1,X,Shooting,Skeet Mixed Team,SHOXSKMT----ITA01,ITA
+Silver Medal,2,United States 1,X,Shooting,Skeet Mixed Team,SHOXSKMT----USA01,USA
+Bronze Medal,3,China,X,Shooting,Skeet Mixed Team,SHOXSKMT----CHN01,CHN
+Gold Medal,1,Kauli VAAST,M,Surfing,Men,1567361,FRA
+Silver Medal,2,Jack ROBINSON,M,Surfing,Men,1946129,AUS
+Bronze Medal,3,Gabriel MEDINA,M,Surfing,Men,1955778,BRA
+Gold Medal,1,Caroline MARKS,F,Surfing,Women,1943206,USA
+Silver Medal,2,Tatiana WESTON-WEBB,F,Surfing,Women,1955783,BRA
+Bronze Medal,3,Johanne DEFAY,F,Surfing,Women,1567359,FRA
+Gold Medal,1,Germany,X,Triathlon,Mixed Relay,TRIXTEAM4---GER01,GER
+Silver Medal,2,United States,X,Triathlon,Mixed Relay,TRIXTEAM4---USA01,USA
+Bronze Medal,3,Great Britain,X,Triathlon,Mixed Relay,TRIXTEAM4---GBR01,GBR
+Gold Medal,1,Cole HOCKER,M,Athletics,Men's 1500m,1960933,USA
+Silver Medal,2,Josh KERR,M,Athletics,Men's 1500m,1924440,GBR
+Bronze Medal,3,Yared NUGUSE,M,Athletics,Men's 1500m,1965327,USA
+Gold Medal,1,Miltiadis TENTOGLOU,M,Athletics,Men's Long Jump,1961246,GRE
+Silver Medal,2,Wayne PINNOCK,M,Athletics,Men's Long Jump,1938899,JAM
+Bronze Medal,3,Mattia FURLANI,M,Athletics,Men's Long Jump,1552378,ITA
+Gold Medal,1,Gabrielle THOMAS,F,Athletics,Women's 200m,1965868,USA
+Silver Medal,2,Julien ALFRED,F,Athletics,Women's 200m,1537325,LCA
+Bronze Medal,3,Brittany BROWN,F,Athletics,Women's 200m,1960588,USA
+Gold Medal,1,Winfred YAVI,F,Athletics,Women's 3000m Steeplechase,1926102,BRN
+Silver Medal,2,Peruth CHEMUTAI,F,Athletics,Women's 3000m Steeplechase,1971686,UGA
+Bronze Medal,3,Faith CHEROTICH,F,Athletics,Women's 3000m Steeplechase,1910453,KEN
+Gold Medal,1,Camryn ROGERS,F,Athletics,Women's Hammer Throw,1974290,CAN
+Silver Medal,2,Annette Nneka ECHIKUNWOKE,F,Athletics,Women's Hammer Throw,1960899,USA
+Bronze Medal,3,ZHAO Jie,F,Athletics,Women's Hammer Throw,1919077,CHN
+Bronze Medal,3,Omari JONES,M,Boxing,Men's 71kg,1955645,USA
+Bronze Medal,3,Lewis RICHARDSON,M,Boxing,Men's 71kg,1912009,GBR
+Bronze Medal,3,Nazym KYZAIBAY,F,Boxing,Women's 50kg,1931331,KAZ
+Bronze Medal,3,Aira VILLEGAS,F,Boxing,Women's 50kg,1979870,PHI
+Gold Medal,1,Kellie HARRINGTON,F,Boxing,Women's 60kg,1555098,IRL
+Silver Medal,2,YANG Wenlu,F,Boxing,Women's 60kg,1926828,CHN
+Bronze Medal,3,Janjaem SUWANNAPHENG,F,Boxing,Women's 66kg,1898283,THA
+Bronze Medal,3,CHEN Nien Chin,F,Boxing,Women's 66kg,1887975,TPE
+Gold Medal,1,Netherlands,M,Cycling Track,Men's Team Sprint,CTRMSPRTEAM3NED01,NED
+Silver Medal,2,Great Britain,M,Cycling Track,Men's Team Sprint,CTRMSPRTEAM3GBR01,GBR
+Bronze Medal,3,Australia,M,Cycling Track,Men's Team Sprint,CTRMSPRTEAM3AUS01,AUS
+Gold Medal,1,QUAN Hongchan,F,Diving,Women's 10m Platform,1901545,CHN
+Silver Medal,2,CHEN Yuxi,F,Diving,Women's 10m Platform,1901544,CHN
+Bronze Medal,3,KIM Mi Rae,F,Diving,Women's 10m Platform,1980115,PRK
+Gold Medal,1,Christian KUKUK,O,Equestrian,Jumping Individual,1914912,GER
+Silver Medal,2,Steve GUERDAT,O,Equestrian,Jumping Individual,1976553,SUI
+Bronze Medal,3,Maikel van der VLEUTEN,O,Equestrian,Jumping Individual,1976879,NED
+Gold Medal,1,Arisa TREW,F,Skateboarding,Women's Park,1946064,AUS
+Silver Medal,2,HIRAKI Cocona,F,Skateboarding,Women's Park,1902075,JPN
+Bronze Medal,3,Sky BROWN,F,Skateboarding,Women's Park,1544123,GBR
+Gold Medal,1,Mijain LOPEZ NUNEZ,M,Wrestling,Men's Greco-Roman 130kg,1571506,CUB
+Silver Medal,2,Yasmani ACOSTA FERNANDEZ,M,Wrestling,Men's Greco-Roman 130kg,1935199,CHI
+Bronze Medal,3,Amin MIRZAZADEH,M,Wrestling,Men's Greco-Roman 130kg,1544882,IRI
+Bronze Medal,3,MENG Lingzhe,M,Wrestling,Men's Greco-Roman 130kg,1919983,CHN
+Gold Medal,1,FUMITA Kenichiro,M,Wrestling,Men's Greco-Roman 60kg,1939713,JPN
+Silver Medal,2,CAO Liguo,M,Wrestling,Men's Greco-Roman 60kg,1919973,CHN
+Bronze Medal,3,Zholaman SHARSHENBEKOV,M,Wrestling,Men's Greco-Roman 60kg,1566631,KGZ
+Bronze Medal,3,RI Se Ung,M,Wrestling,Men's Greco-Roman 60kg,1980153,PRK
+Gold Medal,1,Amit ELOR,F,Wrestling,Women's Freestyle 68kg,1955304,USA
+Silver Medal,2,Meerim ZHUMANAZAROVA,F,Wrestling,Women's Freestyle 68kg,1568241,KGZ
+Bronze Medal,3,Buse CAVUSOGLU TOSUN,F,Wrestling,Women's Freestyle 68kg,1570415,TUR
+Bronze Medal,3,OZAKI Nonoka,F,Wrestling,Women's Freestyle 68kg,1939709,JPN
+Gold Medal,1,China,O,Artistic Swimming,Team,SWAWTEAM8---CHN01,CHN
+Silver Medal,2,United States,O,Artistic Swimming,Team,SWAWTEAM8---USA01,USA
+Bronze Medal,3,Spain,O,Artistic Swimming,Team,SWAWTEAM8---ESP01,ESP
+Gold Medal,1,MARTIN A/PEREZ M,X,Athletics,Marathon Race Walk Relay Mixed,ATHX42KWALKTESP02,ESP
+Silver Medal,2,PINTADO B/MOREJON G,X,Athletics,Marathon Race Walk Relay Mixed,ATHX42KWALKTECU01,ECU
+Bronze Medal,3,COWLEY R/MONTAG J,X,Athletics,Marathon Race Walk Relay Mixed,ATHX42KWALKTAUS01,AUS
+Gold Medal,1,Soufiane EL BAKKALI,M,Athletics,Men's 3000m Steeplechase,1555372,MAR
+Silver Medal,2,Kenneth ROOKS,M,Athletics,Men's 3000m Steeplechase,1965896,USA
+Bronze Medal,3,Abraham KIBIWOT,M,Athletics,Men's 3000m Steeplechase,1910445,KEN
+Gold Medal,1,Quincy HALL,M,Athletics,Men's 400m,1960177,USA
+Silver Medal,2,Matthew HUDSON-SMITH,M,Athletics,Men's 400m,1924430,GBR
+Bronze Medal,3,Muzala SAMUKONGA,M,Athletics,Men's 400m,1937531,ZAM
+Gold Medal,1,Roje STONA,M,Athletics,Men's Discus Throw,1912322,JAM
+Silver Medal,2,Mykolas ALEKNA,M,Athletics,Men's Discus Throw,1922593,LTU
+Bronze Medal,3,Matthew DENNY,M,Athletics,Men's Discus Throw,1939824,AUS
+Gold Medal,1,Nina KENNEDY,F,Athletics,Women's Pole Vault,1939839,AUS
+Silver Medal,2,Katie MOON,F,Athletics,Women's Pole Vault,1965268,USA
+Bronze Medal,3,Alysha NEWMAN,F,Athletics,Women's Pole Vault,1974216,CAN
+Bronze Medal,3,Nelvie Raman TIAFACK,M,Boxing,Men's +92kg,1895903,GER
+Bronze Medal,3,Djamili-Dini ABOUDOU MOINDZE,M,Boxing,Men's +92kg,1879120,FRA
+Gold Medal,1,Erislandy ALVAREZ BORGES,M,Boxing,Men's 63.5kg,1555537,CUB
+Silver Medal,2,Sofiane OUMIHA,M,Boxing,Men's 63.5kg,1879111,FRA
+Gold Medal,1,Oleksandr KHYZHNIAK,M,Boxing,Men's 80kg,1564362,UKR
+Silver Medal,2,Nurbek ORALBAY,M,Boxing,Men's 80kg,1932824,KAZ
+Bronze Medal,3,Esra YILDIZ KAHRAMAN,F,Boxing,Women's 57kg,1568204,TUR
+Bronze Medal,3,Nesthy PETECIO,F,Boxing,Women's 57kg,1979904,PHI
+Gold Medal,1,Australia,M,Cycling Track,Men's Team Pursuit,CTRMPURTEAM4AUS01,AUS
+Silver Medal,2,Great Britain,M,Cycling Track,Men's Team Pursuit,CTRMPURTEAM4GBR01,GBR
+Bronze Medal,3,Italy,M,Cycling Track,Men's Team Pursuit,CTRMPURTEAM4ITA01,ITA
+Gold Medal,1,United States,F,Cycling Track,Women's Team Pursuit,CTRWPURTEAM4USA01,USA
+Silver Medal,2,New Zealand,F,Cycling Track,Women's Team Pursuit,CTRWPURTEAM4NZL01,NZL
+Bronze Medal,3,Great Britain,F,Cycling Track,Women's Team Pursuit,CTRWPURTEAM4GBR01,GBR
+Gold Medal,1,Matt WEARN,M,Sailing,Men's Dinghy,1945990,AUS
+Silver Medal,2,Pavlos KONTIDES,M,Sailing,Men's Dinghy,1905347,CYP
+Bronze Medal,3,Stefano PESCHIERA,M,Sailing,Men's Dinghy,1944316,PER
+Gold Medal,1,Marit BOUWMEESTER,F,Sailing,Women's Dinghy,1970500,NED
+Silver Medal,2,Anne-Marie RINDOM,F,Sailing,Women's Dinghy,1895121,DEN
+Bronze Medal,3,Line Flem HOEST,F,Sailing,Women's Dinghy,1878602,NOR
+Gold Medal,1,Keegan PALMER,M,Skateboarding,Men's Park,1946074,AUS
+Silver Medal,2,Tom SCHAAR,M,Skateboarding,Men's Park,1944247,USA
+Bronze Medal,3,Augusto AKIO,M,Skateboarding,Men's Park,1955669,BRA
+Gold Medal,1,Aleksandra MIROSLAW,F,Sport Climbing,Women's Speed,1563327,POL
+Silver Medal,2,DENG Lijuan,F,Sport Climbing,Women's Speed,1913702,CHN
+Bronze Medal,3,Aleksandra KALUCKA,F,Sport Climbing,Women's Speed,1563321,POL
+Gold Medal,1,PARK Taejoon,M,Taekwondo,Men -58kg,1904040,KOR
+Silver Medal,2,Gashim MAGOMEDOV,M,Taekwondo,Men -58kg,1946883,AZE
+Bronze Medal,3,Cyrian RAVET,M,Taekwondo,Men -58kg,1893274,FRA
+Bronze Medal,3,Mohamed Khalil JENDOUBI,M,Taekwondo,Men -58kg,1947736,TUN
+Gold Medal,1,Panipak WONGPATTANAKIT,F,Taekwondo,Women -49kg,1902841,THA
+Silver Medal,2,GUO Qing,F,Taekwondo,Women -49kg,1910372,CHN
+Bronze Medal,3,Mobina NEMATZADEH,F,Taekwondo,Women -49kg,1536064,IRI
+Bronze Medal,3,Lena STOJKOVIC,F,Taekwondo,Women -49kg,1569986,CRO
+Gold Medal,1,LI Fabin,M,Weightlifting,Men's 61kg,1918372,CHN
+Silver Medal,2,Theerapong SILACHAI,M,Weightlifting,Men's 61kg,1898059,THA
+Bronze Medal,3,Hampton MORRIS,M,Weightlifting,Men's 61kg,1917153,USA
+Gold Medal,1,HOU Zhihui,F,Weightlifting,Women's 49kg,1918377,CHN
+Silver Medal,2,Mihaela Valentina CAMBEI,F,Weightlifting,Women's 49kg,1550148,ROU
+Bronze Medal,3,Surodchana KHAMBAO,F,Weightlifting,Women's 49kg,1898024,THA
+Gold Medal,1,KUSAKA Nao,M,Wrestling,Men's Greco-Roman 77kg,1939692,JPN
+Silver Medal,2,Demeu ZHADRAYEV,M,Wrestling,Men's Greco-Roman 77kg,1958652,KAZ
+Bronze Medal,3,Malkhas AMOYAN,M,Wrestling,Men's Greco-Roman 77kg,1532873,ARM
+Bronze Medal,3,Akzhol MAKHMUDOV,M,Wrestling,Men's Greco-Roman 77kg,1566627,KGZ
+Gold Medal,1,Mohammadhadi SARAVI,M,Wrestling,Men's Greco-Roman 97kg,1544897,IRI
+Silver Medal,2,Artur ALEKSANYAN,M,Wrestling,Men's Greco-Roman 97kg,1532872,ARM
+Bronze Medal,3,Gabriel Alejandro ROSILLO KINDELAN,M,Wrestling,Men's Greco-Roman 97kg,1571504,CUB
+Bronze Medal,3,Uzur DZHUZUPBEKOV,M,Wrestling,Men's Greco-Roman 97kg,1566601,KGZ
+Gold Medal,1,Sarah Ann HILDEBRANDT,F,Wrestling,Women's Freestyle 50kg,1955373,USA
+Silver Medal,2,Yusneylis GUZMAN LOPEZ,F,Wrestling,Women's Freestyle 50kg,1571747,CUB
+Bronze Medal,3,SUSAKI Yui,F,Wrestling,Women's Freestyle 50kg,1939712,JPN
+Bronze Medal,3,FENG Ziqi,F,Wrestling,Women's Freestyle 50kg,1920000,CHN
+Gold Medal,1,Grant HOLLOWAY,M,Athletics,Men's 110m Hurdles,1960961,USA
+Silver Medal,2,Daniel ROBERTS,M,Athletics,Men's 110m Hurdles,1965223,USA
+Bronze Medal,3,Rasheed BROADBELL,M,Athletics,Men's 110m Hurdles,1901251,JAM
+Gold Medal,1,Letsile TEBOGO,M,Athletics,Men's 200m,1936983,BOT
+Silver Medal,2,Kenneth BEDNAREK,M,Athletics,Men's 200m,1960659,USA
+Bronze Medal,3,Noah LYLES,M,Athletics,Men's 200m,1960173,USA
+Gold Medal,1,Arshad NADEEM,M,Athletics,Men's Javelin Throw,1878563,PAK
+Silver Medal,2,Neeraj CHOPRA,M,Athletics,Men's Javelin Throw,1550250,IND
+Bronze Medal,3,Anderson PETERS,M,Athletics,Men's Javelin Throw,1573418,GRN
+Gold Medal,1,Sydney McLAUGHLIN-LEVRONE,F,Athletics,Women's 400m Hurdles,1965308,USA
+Silver Medal,2,Anna COCKRELL,F,Athletics,Women's 400m Hurdles,1960581,USA
+Bronze Medal,3,Femke BOL,F,Athletics,Women's 400m Hurdles,1972078,NED
+Gold Medal,1,Tara DAVIS-WOODHALL,F,Athletics,Women's Long Jump,1960711,USA
+Silver Medal,2,Malaika MIHAMBO,F,Athletics,Women's Long Jump,1920175,GER
+Bronze Medal,3,Jasmine MOORE,F,Athletics,Women's Long Jump,1965250,USA
+Gold Medal,1,Hasanboy DUSMATOV,M,Boxing,Men's 51kg,1556045,UZB
+Silver Medal,2,Billal BENNAMA,M,Boxing,Men's 51kg,1879110,FRA
+Bronze Medal,3,Charlie SENIOR,M,Boxing,Men's 57kg,1940136,AUS
+Bronze Medal,3,Javier IBANEZ DIAZ,M,Boxing,Men's 57kg,1555185,BUL
+Gold Medal,1,CHANG Yuan,F,Boxing,Women's 54kg,1926832,CHN
+Silver Medal,2,Hatice AKBAS,F,Boxing,Women's 54kg,1568186,TUR
+Bronze Medal,3,Caitlin PARKER,F,Boxing,Women's 75kg,1940134,AUS
+Bronze Medal,3,Cindy Winner DJANKEU NGAMBA,F,Boxing,Women's 75kg,1894537,EOR
+Gold Medal,1,LIU/JI,M,Canoe Sprint,Men's Canoe Double 500m,CSPMC2-500M-CHN01,CHN
+Silver Medal,2,CASADEI/TACCHINI,M,Canoe Sprint,Men's Canoe Double 500m,CSPMC2-500M-ITA01,ITA
+Bronze Medal,3,MORENO/DOMINGUEZ,M,Canoe Sprint,Men's Canoe Double 500m,CSPMC2-500M-ESP01,ESP
+Gold Medal,1,Germany,M,Canoe Sprint,Men's Kayak Four 500m,CSPMK4-500M-GER01,GER
+Silver Medal,2,Australia,M,Canoe Sprint,Men's Kayak Four 500m,CSPMK4-500M-AUS01,AUS
+Bronze Medal,3,Spain,M,Canoe Sprint,Men's Kayak Four 500m,CSPMK4-500M-ESP01,ESP
+Gold Medal,1,New Zealand,F,Canoe Sprint,Women's Kayak Four 500m,CSPWK4-500M-NZL01,NZL
+Silver Medal,2,Germany,F,Canoe Sprint,Women's Kayak Four 500m,CSPWK4-500M-GER01,GER
+Bronze Medal,3,Hungary,F,Canoe Sprint,Women's Kayak Four 500m,CSPWK4-500M-HUN01,HUN
+Gold Medal,1,Benjamin THOMAS,M,Cycling Track,Men's Omnium,1895717,FRA
+Silver Medal,2,Iuri LEITAO,M,Cycling Track,Men's Omnium,1933816,POR
+Bronze Medal,3,Fabio van den BOSSCHE,M,Cycling Track,Men's Omnium,1915370,BEL
+Gold Medal,1,Ellesse ANDREWS,F,Cycling Track,Women's Keirin,1945040,NZL
+Silver Medal,2,Hetty van de WOUW,F,Cycling Track,Women's Keirin,1969180,NED
+Bronze Medal,3,Emma FINUCANE,F,Cycling Track,Women's Keirin,1912522,GBR
+Gold Medal,1,XIE Siyi,M,Diving,Men's 3m Springboard,1901550,CHN
+Silver Medal,2,WANG Zongyuan,M,Diving,Men's 3m Springboard,1901549,CHN
+Bronze Medal,3,Osmar OLVERA IBARRA,M,Diving,Men's 3m Springboard,1535349,MEX
+Bronze Medal,3,Morocco,M,Football,Men,FBLMTEAM11--MAR01,MAR
+Gold Medal,1,Netherlands,M,Hockey,Men,HOCMTEAM11--NED01,NED
+Silver Medal,2,Germany,M,Hockey,Men,HOCMTEAM11--GER01,GER
+Bronze Medal,3,India,M,Hockey,Men,HOCMTEAM11--IND01,IND
+Gold Medal,1,Sharon van ROUWENDAAL,F,Marathon Swimming,Women's 10km,1972515,NED
+Silver Medal,2,Moesha JOHNSON,F,Marathon Swimming,Women's 10km,1945588,AUS
+Bronze Medal,3,Ginevra TADDEUCCI,F,Marathon Swimming,Women's 10km,1925804,ITA
+Gold Medal,1,VADLAU/MAEHR,X,Sailing,Mixed Dinghy,SALX470-----AUT01,AUT
+Silver Medal,2,OKADA/YOSHIOKA,X,Sailing,Mixed Dinghy,SALX470-----JPN01,JPN
+Bronze Medal,3,DAHLBERG/KARLSSON,X,Sailing,Mixed Dinghy,SALX470-----SWE01,SWE
+Gold Medal,1,TITA/BANTI,X,Sailing,Mixed Multihull,SALXNACRA17-ITA01,ITA
+Silver Medal,2,MAJDALANI/BOSCO,X,Sailing,Mixed Multihull,SALXNACRA17-ARG01,ARG
+Bronze Medal,3,WILKINSON/DAWSON,X,Sailing,Mixed Multihull,SALXNACRA17-NZL01,NZL
+Gold Medal,1,Eleanor ALDRIDGE,F,Sailing,Women's Kite,1899728,GBR
+Silver Medal,2,Lauriane NOLOT,F,Sailing,Women's Kite,1559512,FRA
+Bronze Medal,3,Annelous LAMMERTS,F,Sailing,Women's Kite,1970517,NED
+Gold Medal,1,Veddriq LEONARDO,M,Sport Climbing,Men's Speed,1940329,INA
+Silver Medal,2,WU Peng,M,Sport Climbing,Men's Speed,1913699,CHN
+Bronze Medal,3,Sam WATSON,M,Sport Climbing,Men's Speed,1950309,USA
+Gold Medal,1,Ulugbek RASHITOV,M,Taekwondo,Men -68kg,1887714,UZB
+Silver Medal,2,Zaid KAREEM,M,Taekwondo,Men -68kg,1537401,JOR
+Bronze Medal,3,LIANG Yushuai,M,Taekwondo,Men -68kg,1910367,CHN
+Bronze Medal,3,Edival PONTES,M,Taekwondo,Men -68kg,1955815,BRA
+Gold Medal,1,KIM Yujin,F,Taekwondo,Women -57kg,1904038,KOR
+Silver Medal,2,Nahid KIYANICHANDEH,F,Taekwondo,Women -57kg,1536067,IRI
+Bronze Medal,3,Skylar PARK,F,Taekwondo,Women -57kg,1966505,CAN
+Bronze Medal,3,Alizadeh KIMIA,F,Taekwondo,Women -57kg,2493835,BUL
+Gold Medal,1,Rizki JUNIANSYAH,M,Weightlifting,Men's 73kg,1941786,INA
+Silver Medal,2,Weeraphon WICHUMA,M,Weightlifting,Men's 73kg,1898067,THA
+Bronze Medal,3,Bozhidar Dimitrov ANDREEV,M,Weightlifting,Men's 73kg,1902787,BUL
+Gold Medal,1,LUO Shifang,F,Weightlifting,Women's 59kg,1918379,CHN
+Silver Medal,2,Maude CHARRON,F,Weightlifting,Women's 59kg,1965815,CAN
+Bronze Medal,3,KUO Hsing-Chun,F,Weightlifting,Women's 59kg,1569563,TPE
+Gold Medal,1,Saeid ESMAEILI LEIVESI,M,Wrestling,Men's Greco-Roman 67kg,1544928,IRI
+Silver Medal,2,Parviz NASIBOV,M,Wrestling,Men's Greco-Roman 67kg,1550119,UKR
+Bronze Medal,3,Hasrat JAFAROV,M,Wrestling,Men's Greco-Roman 67kg,1981760,AZE
+Bronze Medal,3,Luis Alberto ORTA SANCHEZ,M,Wrestling,Men's Greco-Roman 67kg,1571498,CUB
+Gold Medal,1,Semen Sergeevich NOVIKOV,M,Wrestling,Men's Greco-Roman 87kg,1559471,BUL
+Silver Medal,2,Alireza MOHMADIPIANI,M,Wrestling,Men's Greco-Roman 87kg,1544880,IRI
+Bronze Medal,3,Zhan BELENIUK,M,Wrestling,Men's Greco-Roman 87kg,1550116,UKR
+Bronze Medal,3,Turpal Ali BISULTANOV,M,Wrestling,Men's Greco-Roman 87kg,1879518,DEN
+Gold Medal,1,FUJINAMI Akari,F,Wrestling,Women's Freestyle 53kg,1939711,JPN
+Silver Medal,2,Lucia Yamileth YEPEZ GUZMAN,F,Wrestling,Women's Freestyle 53kg,1960228,ECU
+Bronze Medal,3,CHOE Hyo Gyong,F,Wrestling,Women's Freestyle 53kg,1980149,PRK
+Bronze Medal,3,PANG Qianyu,F,Wrestling,Women's Freestyle 53kg,1920006,CHN
+Gold Medal,1,Canada,M,Athletics,Men's 4 x 100m Relay,ATHM4X100M--CAN01,CAN
+Silver Medal,2,South Africa,M,Athletics,Men's 4 x 100m Relay,ATHM4X100M--RSA01,RSA
+Bronze Medal,3,Great Britain,M,Athletics,Men's 4 x 100m Relay,ATHM4X100M--GBR01,GBR
+Gold Medal,1,Rai BENJAMIN,M,Athletics,Men's 400m Hurdles,1960684,USA
+Silver Medal,2,Karsten WARHOLM,M,Athletics,Men's 400m Hurdles,1894095,NOR
+Bronze Medal,3,Alison dos SANTOS,M,Athletics,Men's 400m Hurdles,1951913,BRA
+Gold Medal,1,Jordan Alejandro DIAZ FORTUN,M,Athletics,Men's Triple Jump,1904099,ESP
+Silver Medal,2,Pedro PICHARDO,M,Athletics,Men's Triple Jump,1938792,POR
+Bronze Medal,3,Andy DIAZ HERNANDEZ,M,Athletics,Men's Triple Jump,1552375,ITA
+Gold Medal,1,Beatrice CHEBET,F,Athletics,"Women's 10,000m",1910560,KEN
+Silver Medal,2,Nadia BATTOCLETTI,F,Athletics,"Women's 10,000m",1552305,ITA
+Bronze Medal,3,Sifan HASSAN,F,Athletics,"Women's 10,000m",1972105,NED
+Gold Medal,1,United States,F,Athletics,Women's 4 x 100m Relay,ATHW4X100M--USA01,USA
+Silver Medal,2,Great Britain,F,Athletics,Women's 4 x 100m Relay,ATHW4X100M--GBR01,GBR
+Bronze Medal,3,Germany,F,Athletics,Women's 4 x 100m Relay,ATHW4X100M--GER01,GER
+Gold Medal,1,Marileidy PAULINO,F,Athletics,Women's 400m,1899666,DOM
+Silver Medal,2,Salwa Eid NASER,F,Athletics,Women's 400m,1915338,BRN
+Bronze Medal,3,Natalia KACZMAREK,F,Athletics,Women's 400m,1573098,POL
+Gold Medal,1,Yemisi OGUNLEYE,F,Athletics,Women's Shot Put,1920183,GER
+Silver Medal,2,Maddison-Lee WESCHE,F,Athletics,Women's Shot Put,1926695,NZL
+Bronze Medal,3,SONG Jiayuan,F,Athletics,Women's Shot Put,1919065,CHN
+Gold Medal,1,ANA PATRICIA/DUDA,F,Beach Volleyball,Women,VBVWTEAM2---BRA01,BRA
+Silver Medal,2,MELISSA/BRANDIE,F,Beach Volleyball,Women,VBVWTEAM2---CAN01,CAN
+Bronze Medal,3,HUBERLI/BRUNNER,F,Beach Volleyball,Women,VBVWTEAM2---SUI01,SUI
+Gold Medal,1,Asadkhuja MUYDINKHUJAEV,M,Boxing,Men's 71kg,1556797,UZB
+Silver Medal,2,Marco Alonso VERDE ALVAREZ,M,Boxing,Men's 71kg,1535187,MEX
+Gold Medal,1,Lazizbek MULLOJONOV,M,Boxing,Men's 92kg,1556860,UZB
+Silver Medal,2,Loren Berto ALFONSO DOMINGUEZ,M,Boxing,Men's 92kg,1972343,AZE
+Gold Medal,1,WU Yu,F,Boxing,Women's 50kg,1926833,CHN
+Silver Medal,2,Buse Naz CAKIROGLU,F,Boxing,Women's 50kg,1568182,TUR
+Gold Medal,1,Imane KHELIF,F,Boxing,Women's 66kg,1540353,ALG
+Silver Medal,2,YANG Liu,F,Boxing,Women's 66kg,1926827,CHN
+Gold Medal,1,AMI,F,Breaking,B-Girls,1953038,JPN
+Silver Medal,2,NICKA,F,Breaking,B-Girls,1924559,LTU
+Bronze Medal,3,671,F,Breaking,B-Girls,1909907,CHN
+Gold Medal,1,Martin FUKSA,M,Canoe Sprint,Men's Canoe Single 1000m,1878716,CZE
+Silver Medal,2,Isaquias QUEIROZ,M,Canoe Sprint,Men's Canoe Single 1000m,1952595,BRA
+Bronze Medal,3,Serghei TARNOVSCHI,M,Canoe Sprint,Men's Canoe Single 1000m,1550295,MDA
+Gold Medal,1,SCHOPF/LEMKE,M,Canoe Sprint,Men's Kayak Double 500m,CSPMK2-500M-GER01,GER
+Silver Medal,2,NADAS/TOTKA,M,Canoe Sprint,Men's Kayak Double 500m,CSPMK2-500M-HUN01,HUN
+Bronze Medal,3,van der WE/GREEN,M,Canoe Sprint,Men's Kayak Double 500m,CSPMK2-500M-AUS01,AUS
+Gold Medal,1,XU/SUN,F,Canoe Sprint,Women's Canoe Double 500m,CSPWC2-500M-CHN01,CHN
+Silver Medal,2,LUZAN/RYBACHOK,F,Canoe Sprint,Women's Canoe Double 500m,CSPWC2-500M-UKR01,UKR
+Bronze Medal,3,MACKENZIE/VINCENT,F,Canoe Sprint,Women's Canoe Double 500m,CSPWC2-500M-CAN01,CAN
+Gold Medal,1,CARRINGTON/HOSKIN,F,Canoe Sprint,Women's Kayak Double 500m,CSPWK2-500M-NZL01,NZL
+Silver Medal,2,CSIPES/GAZSO,F,Canoe Sprint,Women's Kayak Double 500m,CSPWK2-500M-HUN01,HUN
+Bronze Medal,3,PASZEK/HAKE,F,Canoe Sprint,Women's Kayak Double 500m,CSPWK2-500M-GER01,GER
+Bronze Medal,3,PUPP/FOJT,F,Canoe Sprint,Women's Kayak Double 500m,CSPWK2-500M-HUN02,HUN
+Gold Medal,1,Harrie LAVREYSEN,M,Cycling Track,Men's Sprint,1969182,NED
+Silver Medal,2,Matthew RICHARDSON,M,Cycling Track,Men's Sprint,1940263,AUS
+Bronze Medal,3,Jack CARLIN,M,Cycling Track,Men's Sprint,1912515,GBR
+Gold Medal,1,Italy,F,Cycling Track,Women's Madison,CTRWMADISON-ITA01,ITA
+Silver Medal,2,Great Britain,F,Cycling Track,Women's Madison,CTRWMADISON-GBR01,GBR
+Bronze Medal,3,Netherlands,F,Cycling Track,Women's Madison,CTRWMADISON-NED01,NED
+Gold Medal,1,CHEN Yiwen,F,Diving,Women's 3m Springboard,1901538,CHN
+Silver Medal,2,Maddison KEENEY,F,Diving,Women's 3m Springboard,1940414,AUS
+Bronze Medal,3,CHANG Yani,F,Diving,Women's 3m Springboard,1901539,CHN
+Gold Medal,1,Spain,M,Football,Men,FBLMTEAM11--ESP01,ESP
+Silver Medal,2,France,M,Football,Men,FBLMTEAM11--FRA01,FRA
+Bronze Medal,3,Germany,F,Football,Women,FBLWTEAM11--GER01,GER
+Gold Medal,1,Netherlands,F,Hockey,Women,HOCWTEAM11--NED01,NED
+Silver Medal,2,China,F,Hockey,Women,HOCWTEAM11--CHN01,CHN
+Bronze Medal,3,Argentina,F,Hockey,Women,HOCWTEAM11--ARG01,ARG
+Gold Medal,1,Kristof RASOVSZKY,M,Marathon Swimming,Men's 10km,1909030,HUN
+Silver Medal,2,Oliver KLEMET,M,Marathon Swimming,Men's 10km,1907234,GER
+Bronze Medal,3,David BETLEHEM,M,Marathon Swimming,Men's 10km,1902450,HUN
+Gold Medal,1,Valentin BONTUS,M,Sailing,Men's Kite,1566437,AUT
+Silver Medal,2,Toni VODISEK,M,Sailing,Men's Kite,1981549,SLO
+Bronze Medal,3,Maximilian MAEDER,M,Sailing,Men's Kite,1535852,SGP
+Gold Medal,1,Toby ROBERTS,M,Sport Climbing,Men's Boulder & Lead,1544218,GBR
+Silver Medal,2,ANRAKU Sorato,M,Sport Climbing,Men's Boulder & Lead,1892022,JPN
+Bronze Medal,3,Jakob SCHUBERT,M,Sport Climbing,Men's Boulder & Lead,1560677,AUT
+Gold Medal,1,China,M,Table Tennis,Men's Team,TTEMTEAM----CHN01,CHN
+Silver Medal,2,Sweden,M,Table Tennis,Men's Team,TTEMTEAM----SWE01,SWE
+Bronze Medal,3,France,M,Table Tennis,Men's Team,TTEMTEAM----FRA01,FRA
+Gold Medal,1,Firas KATOUSSI,M,Taekwondo,Men -80kg,1947737,TUN
+Silver Medal,2,Mehran BARKHORDARI,M,Taekwondo,Men -80kg,1536058,IRI
+Bronze Medal,3,Simone ALESSIO,M,Taekwondo,Men -80kg,1929685,ITA
+Bronze Medal,3,Edi HRNIC,M,Taekwondo,Men -80kg,1914832,DEN
+Gold Medal,1,Viviana MARTON,F,Taekwondo,Women -67kg,1572318,HUN
+Silver Medal,2,Aleksandra PERISIC,F,Taekwondo,Women -67kg,1956372,SRB
+Bronze Medal,3,Kristina TEACHOUT,F,Taekwondo,Women -67kg,1930773,USA
+Bronze Medal,3,Sarah CHAARI,F,Taekwondo,Women -67kg,1903284,BEL
+Bronze Medal,3,United States,M,Volleyball,Men,VVOMTEAM6---USA01,USA
+Gold Medal,1,Karlos May NASAR,M,Weightlifting,Men's 89kg,1903011,BUL
+Silver Medal,2,Yeison LOPEZ,M,Weightlifting,Men's 89kg,1543506,COL
+Bronze Medal,3,Antonino PIZZOLATO,M,Weightlifting,Men's 89kg,1568724,ITA
+Gold Medal,1,Olivia REEVES,F,Weightlifting,Women's 71kg,1917154,USA
+Silver Medal,2,Mari Leivis SANCHEZ,F,Weightlifting,Women's 71kg,1543509,COL
+Bronze Medal,3,Angie Paola PALACIOS DAJOMES,F,Weightlifting,Women's 71kg,1940300,ECU
+Gold Medal,1,HIGUCHI Rei,M,Wrestling,Men's Freestyle 57kg,1939714,JPN
+Silver Medal,2,Spencer Richard LEE,M,Wrestling,Men's Freestyle 57kg,1955415,USA
+Bronze Medal,3,Aman AMAN,M,Wrestling,Men's Freestyle 57kg,1931496,IND
+Bronze Medal,3,Gulomjon ABDULLAEV,M,Wrestling,Men's Freestyle 57kg,1562157,UZB
+Gold Medal,1,Magomed Eldarovitch RAMAZANOV,M,Wrestling,Men's Freestyle 86kg,1556873,BUL
+Silver Medal,2,Hassan YAZDANICHARATI,M,Wrestling,Men's Freestyle 86kg,1544803,IRI
+Bronze Medal,3,Aaron Marquel BROOKS,M,Wrestling,Men's Freestyle 86kg,1955300,USA
+Bronze Medal,3,Dauren KURUGLIEV,M,Wrestling,Men's Freestyle 86kg,1963800,GRE
+Gold Medal,1,SAKURAI Tsugumi,F,Wrestling,Women's Freestyle 57kg,1939710,JPN
+Silver Medal,2,Anastasia NICHITA,F,Wrestling,Women's Freestyle 57kg,1572203,MDA
+Bronze Medal,3,Helen Louise MAROULIS,F,Wrestling,Women's Freestyle 57kg,1955426,USA
+Bronze Medal,3,HONG Kexin,F,Wrestling,Women's Freestyle 57kg,1920010,CHN
+Gold Medal,1,China,F,Artistic Swimming,Duet,SWAWTEAM2---CHN01,CHN
+Silver Medal,2,Great Britain,F,Artistic Swimming,Duet,SWAWTEAM2---GBR01,GBR
+Bronze Medal,3,Netherlands,F,Artistic Swimming,Duet,SWAWTEAM2---NED01,NED
+Gold Medal,1,United States,M,Athletics,Men's 4 x 400m Relay,ATHM4X400M--USA01,USA
+Silver Medal,2,Botswana,M,Athletics,Men's 4 x 400m Relay,ATHM4X400M--BOT01,BOT
+Bronze Medal,3,Great Britain,M,Athletics,Men's 4 x 400m Relay,ATHM4X400M--GBR01,GBR
+Gold Medal,1,Jakob INGEBRIGTSEN,M,Athletics,Men's 5000m,1898250,NOR
+Silver Medal,2,Ronald KWEMOI,M,Athletics,Men's 5000m,1963077,KEN
+Bronze Medal,3,Grant FISHER,M,Athletics,Men's 5000m,1960959,USA
+Gold Medal,1,Emmanuel WANYONYI,M,Athletics,Men's 800m,1910412,KEN
+Silver Medal,2,Marco AROP,M,Athletics,Men's 800m,1974048,CAN
+Bronze Medal,3,Djamel SEDJATI,M,Athletics,Men's 800m,1963520,ALG
+Gold Medal,1,Hamish KERR,M,Athletics,Men's High Jump,1926713,NZL
+Silver Medal,2,Shelby McEWEN,M,Athletics,Men's High Jump,1965306,USA
+Bronze Medal,3,Mutaz Essa BARSHIM,M,Athletics,Men's High Jump,1566681,QAT
+Gold Medal,1,Tamirat TOLA,M,Athletics,Men's Marathon,1901284,ETH
+Silver Medal,2,Bashir ABDI,M,Athletics,Men's Marathon,1942753,BEL
+Bronze Medal,3,Benson KIPRUTO,M,Athletics,Men's Marathon,1910555,KEN
+Gold Medal,1,Masai RUSSELL,F,Athletics,Women's 100m Hurdles,1960169,USA
+Silver Medal,2,Cyrena SAMBA-MAYELA,F,Athletics,Women's 100m Hurdles,1911932,FRA
+Bronze Medal,3,Jasmine CAMACHO-QUINN,F,Athletics,Women's 100m Hurdles,1537183,PUR
+Gold Medal,1,Faith KIPYEGON,F,Athletics,Women's 1500m,1910451,KEN
+Silver Medal,2,Jessica HULL,F,Athletics,Women's 1500m,1939795,AUS
+Bronze Medal,3,Georgia BELL,F,Athletics,Women's 1500m,1956840,GBR
+Gold Medal,1,United States,F,Athletics,Women's 4 x 400m Relay,ATHW4X400M--USA01,USA
+Silver Medal,2,Netherlands,F,Athletics,Women's 4 x 400m Relay,ATHW4X400M--NED01,NED
+Bronze Medal,3,Great Britain,F,Athletics,Women's 4 x 400m Relay,ATHW4X400M--GBR01,GBR
+Gold Medal,1,KITAGUCHI Haruka,F,Athletics,Women's Javelin Throw,1919914,JPN
+Silver Medal,2,Jo-Ane van DYK,F,Athletics,Women's Javelin Throw,1981085,RSA
+Bronze Medal,3,Nikola OGRODNIKOVA,F,Athletics,Women's Javelin Throw,1892137,CZE
+Gold Medal,1,United States,M,Basketball,Men,BKBMTEAM5---USA01,USA
+Silver Medal,2,France,M,Basketball,Men,BKBMTEAM5---FRA01,FRA
+Bronze Medal,3,Serbia,M,Basketball,Men,BKBMTEAM5---SRB01,SRB
+Gold Medal,1,AHMAN/HELLVIG,M,Beach Volleyball,Men,VBVMTEAM2---SWE01,SWE
+Silver Medal,2,EHLERS/WICKLER,M,Beach Volleyball,Men,VBVMTEAM2---GER01,GER
+Bronze Medal,3,MOL/SORUM,M,Beach Volleyball,Men,VBVMTEAM2---NOR01,NOR
+Gold Medal,1,Bakhodir JALOLOV,M,Boxing,Men's +92kg,1556869,UZB
+Silver Medal,2,Ayoub GHADFA DRISSI EL AISSAOUI,M,Boxing,Men's +92kg,1934775,ESP
+Gold Medal,1,Abdumalik KHALOKOV,M,Boxing,Men's 57kg,1556049,UZB
+Silver Medal,2,Munarbek SEIITBEK UULU,M,Boxing,Men's 57kg,1878687,KGZ
+Gold Medal,1,LIN Yu Ting,F,Boxing,Women's 57kg,1887963,TPE
+Silver Medal,2,Julia SZEREMETA,F,Boxing,Women's 57kg,1568655,POL
+Gold Medal,1,LI Qian,F,Boxing,Women's 75kg,1926826,CHN
+Silver Medal,2,Atheyna Bibeichi BYLON,F,Boxing,Women's 75kg,1965679,PAN
+Gold Medal,1,PHIL WIZARD,M,Breaking,B-Boys,1958888,CAN
+Silver Medal,2,DANY DANN,M,Breaking,B-Boys,1880191,FRA
+Bronze Medal,3,VICTOR,M,Breaking,B-Boys,1955590,USA
+Gold Medal,1,Josef DOSTAL,M,Canoe Sprint,Men's Kayak Single 1000m,1878715,CZE
+Silver Medal,2,Adam VARGA,M,Canoe Sprint,Men's Kayak Single 1000m,1570863,HUN
+Bronze Medal,3,Balint KOPASZ,M,Canoe Sprint,Men's Kayak Single 1000m,1569972,HUN
+Gold Medal,1,Katie VINCENT,F,Canoe Sprint,Women's Canoe Single 200m,1964547,CAN
+Silver Medal,2,Nevin HARRISON,F,Canoe Sprint,Women's Canoe Single 200m,1955126,USA
+Bronze Medal,3,Yarisleidis CIRILO DUBOYS,F,Canoe Sprint,Women's Canoe Single 200m,1564506,CUB
+Gold Medal,1,Lisa CARRINGTON,F,Canoe Sprint,Women's Kayak Single 500m,1945383,NZL
+Silver Medal,2,Tamara CSIPES,F,Canoe Sprint,Women's Kayak Single 500m,1568350,HUN
+Bronze Medal,3,Emma Aastrand JORGENSEN,F,Canoe Sprint,Women's Kayak Single 500m,1892423,DEN
+Gold Medal,1,Portugal,M,Cycling Track,Men's Madison,CTRMMADISON-POR01,POR
+Silver Medal,2,Italy,M,Cycling Track,Men's Madison,CTRMMADISON-ITA01,ITA
+Bronze Medal,3,Denmark,M,Cycling Track,Men's Madison,CTRMMADISON-DEN01,DEN
+Gold Medal,1,CAO Yuan,M,Diving,Men's 10m Platform,1901556,CHN
+Silver Medal,2,TAMAI Rikuto,M,Diving,Men's 10m Platform,1891685,JPN
+Bronze Medal,3,Noah WILLIAMS,M,Diving,Men's 10m Platform,1900857,GBR
+Gold Medal,1,United States,F,Football,Women,FBLWTEAM11--USA01,USA
+Silver Medal,2,Brazil,F,Football,Women,FBLWTEAM11--BRA01,BRA
+Gold Medal,1,Lydia KO,F,Golf,Women's Individual Stroke Play,1939553,NZL
+Silver Medal,2,Esther HENSELEIT,F,Golf,Women's Individual Stroke Play,1892506,GER
+Bronze Medal,3,LIN Xiyu Janet,F,Golf,Women's Individual Stroke Play,1913218,CHN
+Gold Medal,1,Norway,F,Handball,Women,HBLWTEAM7---NOR01,NOR
+Silver Medal,2,France,F,Handball,Women,HBLWTEAM7---FRA01,FRA
+Bronze Medal,3,Denmark,F,Handball,Women,HBLWTEAM7---DEN01,DEN
+Gold Medal,1,Ahmed ELGENDY,M,Modern Pentathlon,Men's Individual,1932649,EGY
+Silver Medal,2,SATO Taishu,M,Modern Pentathlon,Men's Individual,1887939,JPN
+Bronze Medal,3,Giorgio MALAN,M,Modern Pentathlon,Men's Individual,1553031,ITA
+Gold Medal,1,Janja GARNBRET,F,Sport Climbing,Women's Boulder & Lead,1981131,SLO
+Silver Medal,2,Brooke RABOUTOU,F,Sport Climbing,Women's Boulder & Lead,1950307,USA
+Bronze Medal,3,Jessica PILZ,F,Sport Climbing,Women's Boulder & Lead,1560673,AUT
+Gold Medal,1,China,F,Table Tennis,Women's Team,TTEWTEAM----CHN01,CHN
+Silver Medal,2,Japan,F,Table Tennis,Women's Team,TTEWTEAM----JPN01,JPN
+Bronze Medal,3,Korea,F,Table Tennis,Women's Team,TTEWTEAM----KOR01,KOR
+Gold Medal,1,Arian SALIMI,M,Taekwondo,Men +80kg,1536045,IRI
+Silver Medal,2,Caden CUNNINGHAM,M,Taekwondo,Men +80kg,1896149,GBR
+Bronze Medal,3,Rafael ALBA,M,Taekwondo,Men +80kg,1897088,CUB
+Bronze Medal,3,Cheick Sallah CISSE,M,Taekwondo,Men +80kg,1548401,CIV
+Gold Medal,1,Althea LAURIN,F,Taekwondo,Women +67kg,1893272,FRA
+Silver Medal,2,Svetlana OSIPOVA,F,Taekwondo,Women +67kg,1887768,UZB
+Bronze Medal,3,LEE Dabin,F,Taekwondo,Women +67kg,1904039,KOR
+Bronze Medal,3,Nafia KUS AYDIN,F,Taekwondo,Women +67kg,1566738,TUR
+Gold Medal,1,France,M,Volleyball,Men,VVOMTEAM6---FRA01,FRA
+Silver Medal,2,Poland,M,Volleyball,Men,VVOMTEAM6---POL01,POL
+Bronze Medal,3,Brazil,F,Volleyball,Women,VVOWTEAM6---BRA01,BRA
+Gold Medal,1,Spain,F,Water Polo,Women,WPOWTEAM7---ESP01,ESP
+Silver Medal,2,Australia,F,Water Polo,Women,WPOWTEAM7---AUS01,AUS
+Bronze Medal,3,Netherlands,F,Water Polo,Women,WPOWTEAM7---NED01,NED
+Gold Medal,1,Lasha TALAKHADZE,M,Weightlifting,Men's +102kg,1551443,GEO
+Silver Medal,2,Varazdat LALAYAN,M,Weightlifting,Men's +102kg,1544424,ARM
+Bronze Medal,3,Gor MINASYAN,M,Weightlifting,Men's +102kg,1540334,BRN
+Gold Medal,1,LIU Huanhua,M,Weightlifting,Men's 102kg,1918369,CHN
+Silver Medal,2,Akbar DJURAEV,M,Weightlifting,Men's 102kg,1551307,UZB
+Bronze Medal,3,Yauheni TSIKHANTSOU,M,Weightlifting,Men's 102kg,1569832,AIN
+Gold Medal,1,Solfrid Eila Amena KOANDA,F,Weightlifting,Women's 81kg,1878625,NOR
+Silver Medal,2,Sara AHMED,F,Weightlifting,Women's 81kg,1563010,EGY
+Bronze Medal,3,Neisi Patricia DAJOMES BARRERA,F,Weightlifting,Women's 81kg,1940308,ECU
+Gold Medal,1,Geno PETRIASHVILI,M,Wrestling,Men's Freestyle 125kg,1554885,GEO
+Silver Medal,2,Amir Hossein ZARE,M,Wrestling,Men's Freestyle 125kg,1543088,IRI
+Bronze Medal,3,Taha AKGUL,M,Wrestling,Men's Freestyle 125kg,1570546,TUR
+Bronze Medal,3,Giorgi MESHVILDISHVILI,M,Wrestling,Men's Freestyle 125kg,1947172,AZE
+Gold Medal,1,Razambek Salambekovitch JAMALOV,M,Wrestling,Men's Freestyle 74kg,1562164,UZB
+Silver Medal,2,TAKATANI Daichi,M,Wrestling,Men's Freestyle 74kg,1939708,JPN
+Bronze Medal,3,Kyle Douglas DAKE,M,Wrestling,Men's Freestyle 74kg,1955345,USA
+Bronze Medal,3,Chermen VALIEV,M,Wrestling,Men's Freestyle 74kg,3429662,ALB
+Gold Medal,1,MOTOKI Sakura,F,Wrestling,Women's Freestyle 62kg,1939702,JPN
+Silver Medal,2,Iryna KOLIADENKO,F,Wrestling,Women's Freestyle 62kg,1897022,UKR
+Bronze Medal,3,Aisuluu TYNYBEKOVA,F,Wrestling,Women's Freestyle 62kg,1902786,KGZ
+Bronze Medal,3,Grace Jacob BULLEN,F,Wrestling,Women's Freestyle 62kg,1878635,NOR
+Gold Medal,1,Sifan HASSAN,F,Athletics,Women's Marathon,1972105,NED
+Silver Medal,2,Tigst ASSEFA,F,Athletics,Women's Marathon,1901487,ETH
+Bronze Medal,3,Hellen OBIRI,F,Athletics,Women's Marathon,1932851,KEN
+Gold Medal,1,United States,F,Basketball,Women,BKBWTEAM5---USA01,USA
+Silver Medal,2,France,F,Basketball,Women,BKBWTEAM5---FRA01,FRA
+Bronze Medal,3,Australia,F,Basketball,Women,BKBWTEAM5---AUS01,AUS
+Gold Medal,1,Harrie LAVREYSEN,M,Cycling Track,Men's Keirin,1969182,NED
+Silver Medal,2,Matthew RICHARDSON,M,Cycling Track,Men's Keirin,1940263,AUS
+Bronze Medal,3,Matthew GLAETZER,M,Cycling Track,Men's Keirin,1940262,AUS
+Gold Medal,1,Jennifer VALENTE,F,Cycling Track,Women's Omnium,1955106,USA
+Silver Medal,2,Daria PIKULIK,F,Cycling Track,Women's Omnium,1572953,POL
+Bronze Medal,3,Ally WOLLASTON,F,Cycling Track,Women's Omnium,1945080,NZL
+Gold Medal,1,Ellesse ANDREWS,F,Cycling Track,Women's Sprint,1945040,NZL
+Silver Medal,2,Lea FRIEDRICH,F,Cycling Track,Women's Sprint,1889704,GER
+Bronze Medal,3,Emma FINUCANE,F,Cycling Track,Women's Sprint,1912522,GBR
+Gold Medal,1,Denmark,M,Handball,Men,HBLMTEAM7---DEN01,DEN
+Silver Medal,2,Germany,M,Handball,Men,HBLMTEAM7---GER01,GER
+Bronze Medal,3,Spain,M,Handball,Men,HBLMTEAM7---ESP01,ESP
+Gold Medal,1,Michelle GULYAS,F,Modern Pentathlon,Women's Individual,1936619,HUN
+Silver Medal,2,Elodie CLOUVEL,F,Modern Pentathlon,Women's Individual,1545116,FRA
+Bronze Medal,3,SEONG Seungmin,F,Modern Pentathlon,Women's Individual,1786902,KOR
+Gold Medal,1,Italy,F,Volleyball,Women,VVOWTEAM6---ITA01,ITA
+Silver Medal,2,United States,F,Volleyball,Women,VVOWTEAM6---USA01,USA
+Gold Medal,1,Serbia,M,Water Polo,Men,WPOMTEAM7---SRB01,SRB
+Silver Medal,2,Croatia,M,Water Polo,Men,WPOMTEAM7---CRO01,CRO
+Bronze Medal,3,United States,M,Water Polo,Men,WPOMTEAM7---USA01,USA
+Gold Medal,1,LI Wenwen,F,Weightlifting,Women's +81kg,1918376,CHN
+Silver Medal,2,PARK Hyejeong,F,Weightlifting,Women's +81kg,1894414,KOR
+Bronze Medal,3,Emily CAMPBELL,F,Weightlifting,Women's +81kg,1544179,GBR
+Gold Medal,1,KIYOOKA Kotaro,M,Wrestling,Men's Freestyle 65kg,1939700,JPN
+Silver Medal,2,Rahman AMOUZADKHALILI,M,Wrestling,Men's Freestyle 65kg,1544830,IRI
+Bronze Medal,3,Sebastian C RIVERA,M,Wrestling,Men's Freestyle 65kg,1537188,PUR
+Bronze Medal,3,Islam DUDAEV,M,Wrestling,Men's Freestyle 65kg,1559387,ALB
+Gold Medal,1,Akhmed TAZHUDINOV,M,Wrestling,Men's Freestyle 97kg,1540305,BRN
+Silver Medal,2,Givi MATCHARASHVILI,M,Wrestling,Men's Freestyle 97kg,1552495,GEO
+Bronze Medal,3,Magomedkhan MAGOMEDOV,M,Wrestling,Men's Freestyle 97kg,1981785,AZE
+Bronze Medal,3,Amirali AZARPIRA,M,Wrestling,Men's Freestyle 97kg,1543095,IRI
+Gold Medal,1,KAGAMI Yuka,F,Wrestling,Women's Freestyle 76kg,1939701,JPN
+Silver Medal,2,Kennedy Alexis BLADES,F,Wrestling,Women's Freestyle 76kg,1955344,USA
+Bronze Medal,3,Milaimy de la Carid. MARIN POTRILLE,F,Wrestling,Women's Freestyle 76kg,1571936,CUB
+Bronze Medal,3,Tatiana RENTERIA RENTERIA,F,Wrestling,Women's Freestyle 76kg,1535513,COL
+Gold Medal,1,People's Republic of China,F,Rhythmic Gymnastics,Group All-Around,GRYW5AA-----CHN01,CHN
+Silver Medal,2,Israel,F,Rhythmic Gymnastics,Group All-Around,GRYW5AA-----ISR01,ISR
+Bronze Medal,3,Italy,F,Rhythmic Gymnastics,Group All-Around,GRYW5AA-----ITA01,ITA
+Gold Medal,1,VARFOLOMEEV Darja,F,Rhythmic Gymnastics,Individual All-Around,1896230,GER
+Silver Medal,2,KALEYN Boryana,F,Rhythmic Gymnastics,Individual All-Around,1548948,BUL
+Bronze Medal,3,RAFFAELI Sofia,F,Rhythmic Gymnastics,Individual All-Around,1923694,ITA
+Gold Medal,1,THIAM Nafissatou,F,Athletics,Women's Heptathlon,1903112,BEL
+Silver Medal,2,JOHNSON-THOMPSON Katarina,F,Athletics,Women's Heptathlon,1977926,GBR
+Bronze Medal,3,VIDTS Noor,F,Athletics,Women's Heptathlon,1895596,BEL
